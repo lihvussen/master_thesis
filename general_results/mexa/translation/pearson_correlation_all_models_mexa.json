@@ -1,0 +1,478 @@
+{
+    "aya_8b": {
+        "all": {
+            "1": {
+                "mean_pooling": 0.86,
+                "max_pooling": 0.94
+            },
+            "2": {
+                "mean_pooling": 0.84,
+                "max_pooling": 0.95
+            },
+            "3": {
+                "mean_pooling": 0.86,
+                "max_pooling": 0.94
+            },
+            "4": {
+                "mean_pooling": 0.87,
+                "max_pooling": 0.96
+            },
+            "5": {
+                "mean_pooling": 0.88,
+                "max_pooling": 0.94
+            }
+        },
+        "last": {
+            "1": {
+                "mean_pooling": 0.95,
+                "max_pooling": 0.83
+            },
+            "2": {
+                "mean_pooling": 0.96,
+                "max_pooling": 0.85
+            },
+            "3": {
+                "mean_pooling": 0.95,
+                "max_pooling": 0.85
+            },
+            "4": {
+                "mean_pooling": 0.95,
+                "max_pooling": 0.84
+            },
+            "5": {
+                "mean_pooling": 0.95,
+                "max_pooling": 0.83
+            }
+        },
+        "weighted": {
+            "1": {
+                "mean_pooling": 0.95,
+                "max_pooling": 0.87
+            },
+            "2": {
+                "mean_pooling": 0.96,
+                "max_pooling": 0.84
+            },
+            "3": {
+                "mean_pooling": 0.94,
+                "max_pooling": 0.88
+            },
+            "4": {
+                "mean_pooling": 0.96,
+                "max_pooling": 0.87
+            },
+            "5": {
+                "mean_pooling": 0.95,
+                "max_pooling": 0.81
+            }
+        }
+    },
+    "bloom_3b": {
+        "all": {
+            "1": {
+                "mean_pooling": 0.62,
+                "max_pooling": 0.59
+            },
+            "2": {
+                "mean_pooling": 0.6,
+                "max_pooling": 0.6
+            },
+            "3": {
+                "mean_pooling": 0.62,
+                "max_pooling": 0.59
+            },
+            "4": {
+                "mean_pooling": 0.61,
+                "max_pooling": 0.56
+            },
+            "5": {
+                "mean_pooling": 0.63,
+                "max_pooling": 0.61
+            }
+        },
+        "last": {
+            "1": {
+                "mean_pooling": 0.79,
+                "max_pooling": 0.76
+            },
+            "2": {
+                "mean_pooling": 0.72,
+                "max_pooling": 0.69
+            },
+            "3": {
+                "mean_pooling": 0.75,
+                "max_pooling": 0.69
+            },
+            "4": {
+                "mean_pooling": 0.71,
+                "max_pooling": 0.68
+            },
+            "5": {
+                "mean_pooling": 0.73,
+                "max_pooling": 0.67
+            }
+        },
+        "weighted": {
+            "1": {
+                "mean_pooling": 0.58,
+                "max_pooling": 0.55
+            },
+            "2": {
+                "mean_pooling": 0.57,
+                "max_pooling": 0.55
+            },
+            "3": {
+                "mean_pooling": 0.59,
+                "max_pooling": 0.58
+            },
+            "4": {
+                "mean_pooling": 0.59,
+                "max_pooling": 0.59
+            },
+            "5": {
+                "mean_pooling": 0.56,
+                "max_pooling": 0.55
+            }
+        }
+    },
+    "deepseek_7b_base": {
+        "all": {
+            "1": {
+                "mean_pooling": 0.34,
+                "max_pooling": 0.3
+            },
+            "2": {
+                "mean_pooling": 0.33,
+                "max_pooling": 0.3
+            },
+            "3": {
+                "mean_pooling": 0.34,
+                "max_pooling": 0.32
+            },
+            "4": {
+                "mean_pooling": 0.31,
+                "max_pooling": 0.31
+            },
+            "5": {
+                "mean_pooling": 0.38,
+                "max_pooling": 0.38
+            }
+        },
+        "last": {
+            "1": {
+                "mean_pooling": 0.57,
+                "max_pooling": 0.35
+            },
+            "2": {
+                "mean_pooling": 0.48,
+                "max_pooling": 0.56
+            },
+            "3": {
+                "mean_pooling": 0.54,
+                "max_pooling": 0.56
+            },
+            "4": {
+                "mean_pooling": 0.54,
+                "max_pooling": 0.67
+            },
+            "5": {
+                "mean_pooling": 0.51,
+                "max_pooling": 0.57
+            }
+        },
+        "weighted": {
+            "1": {
+                "mean_pooling": 0.44,
+                "max_pooling": 0.39
+            },
+            "2": {
+                "mean_pooling": 0.41,
+                "max_pooling": 0.41
+            },
+            "3": {
+                "mean_pooling": 0.39,
+                "max_pooling": 0.31
+            },
+            "4": {
+                "mean_pooling": 0.39,
+                "max_pooling": 0.39
+            },
+            "5": {
+                "mean_pooling": 0.43,
+                "max_pooling": 0.41
+            }
+        }
+    },
+    "gemma_7b": {
+        "all": {
+            "1": {
+                "mean_pooling": 0.73,
+                "max_pooling": 0.83
+            },
+            "2": {
+                "mean_pooling": 0.71,
+                "max_pooling": 0.83
+            },
+            "3": {
+                "mean_pooling": 0.72,
+                "max_pooling": 0.8
+            },
+            "4": {
+                "mean_pooling": 0.71,
+                "max_pooling": 0.81
+            },
+            "5": {
+                "mean_pooling": 0.72,
+                "max_pooling": 0.82
+            }
+        },
+        "last": {
+            "1": {
+                "mean_pooling": 0.98,
+                "max_pooling": 0.94
+            },
+            "2": {
+                "mean_pooling": 0.97,
+                "max_pooling": 0.97
+            },
+            "3": {
+                "mean_pooling": 0.97,
+                "max_pooling": 0.95
+            },
+            "4": {
+                "mean_pooling": 0.98,
+                "max_pooling": 0.96
+            },
+            "5": {
+                "mean_pooling": 0.98,
+                "max_pooling": 0.96
+            }
+        },
+        "weighted": {
+            "1": {
+                "mean_pooling": 0.97,
+                "max_pooling": 0.95
+            },
+            "2": {
+                "mean_pooling": 0.97,
+                "max_pooling": 0.95
+            },
+            "3": {
+                "mean_pooling": 0.98,
+                "max_pooling": 0.96
+            },
+            "4": {
+                "mean_pooling": 0.97,
+                "max_pooling": 0.95
+            },
+            "5": {
+                "mean_pooling": 0.96,
+                "max_pooling": 0.93
+            }
+        }
+    },
+    "llama2_7b": {
+        "all": {
+            "1": {
+                "mean_pooling": 0.63,
+                "max_pooling": 0.63
+            },
+            "2": {
+                "mean_pooling": 0.63,
+                "max_pooling": 0.65
+            },
+            "3": {
+                "mean_pooling": 0.59,
+                "max_pooling": 0.59
+            },
+            "4": {
+                "mean_pooling": 0.63,
+                "max_pooling": 0.64
+            },
+            "5": {
+                "mean_pooling": 0.66,
+                "max_pooling": 0.68
+            }
+        },
+        "last": {
+            "1": {
+                "mean_pooling": 0.7,
+                "max_pooling": 0.69
+            },
+            "2": {
+                "mean_pooling": 0.76,
+                "max_pooling": 0.66
+            },
+            "3": {
+                "mean_pooling": 0.67,
+                "max_pooling": 0.68
+            },
+            "4": {
+                "mean_pooling": 0.7,
+                "max_pooling": 0.68
+            },
+            "5": {
+                "mean_pooling": 0.71,
+                "max_pooling": 0.68
+            }
+        },
+        "weighted": {
+            "1": {
+                "mean_pooling": 0.69,
+                "max_pooling": 0.7
+            },
+            "2": {
+                "mean_pooling": 0.71,
+                "max_pooling": 0.74
+            },
+            "3": {
+                "mean_pooling": 0.66,
+                "max_pooling": 0.66
+            },
+            "4": {
+                "mean_pooling": 0.65,
+                "max_pooling": 0.66
+            },
+            "5": {
+                "mean_pooling": 0.72,
+                "max_pooling": 0.77
+            }
+        }
+    },
+    "llama3_1_8b": {
+        "all": {
+            "1": {
+                "mean_pooling": 0.67,
+                "max_pooling": 0.66
+            },
+            "2": {
+                "mean_pooling": 0.64,
+                "max_pooling": 0.65
+            },
+            "3": {
+                "mean_pooling": 0.69,
+                "max_pooling": 0.71
+            },
+            "4": {
+                "mean_pooling": 0.64,
+                "max_pooling": 0.66
+            },
+            "5": {
+                "mean_pooling": 0.66,
+                "max_pooling": 0.62
+            }
+        },
+        "last": {
+            "1": {
+                "mean_pooling": 0.97,
+                "max_pooling": 0.93
+            },
+            "2": {
+                "mean_pooling": 0.96,
+                "max_pooling": 0.92
+            },
+            "3": {
+                "mean_pooling": 0.96,
+                "max_pooling": 0.92
+            },
+            "4": {
+                "mean_pooling": 0.97,
+                "max_pooling": 0.93
+            },
+            "5": {
+                "mean_pooling": 0.96,
+                "max_pooling": 0.92
+            }
+        },
+        "weighted": {
+            "1": {
+                "mean_pooling": 0.91,
+                "max_pooling": 0.92
+            },
+            "2": {
+                "mean_pooling": 0.89,
+                "max_pooling": 0.92
+            },
+            "3": {
+                "mean_pooling": 0.92,
+                "max_pooling": 0.94
+            },
+            "4": {
+                "mean_pooling": 0.91,
+                "max_pooling": 0.92
+            },
+            "5": {
+                "mean_pooling": 0.91,
+                "max_pooling": 0.9
+            }
+        }
+    },
+    "mistral_7b_v01": {
+        "all": {
+            "1": {
+                "mean_pooling": 0.88,
+                "max_pooling": 0.88
+            },
+            "2": {
+                "mean_pooling": 0.9,
+                "max_pooling": 0.88
+            },
+            "3": {
+                "mean_pooling": 0.89,
+                "max_pooling": 0.88
+            },
+            "4": {
+                "mean_pooling": 0.87,
+                "max_pooling": 0.87
+            },
+            "5": {
+                "mean_pooling": 0.89,
+                "max_pooling": 0.9
+            }
+        },
+        "last": {
+            "1": {
+                "mean_pooling": 0.87,
+                "max_pooling": 0.83
+            },
+            "2": {
+                "mean_pooling": 0.87,
+                "max_pooling": 0.85
+            },
+            "3": {
+                "mean_pooling": 0.88,
+                "max_pooling": 0.86
+            },
+            "4": {
+                "mean_pooling": 0.88,
+                "max_pooling": 0.85
+            },
+            "5": {
+                "mean_pooling": 0.87,
+                "max_pooling": 0.84
+            }
+        },
+        "weighted": {
+            "1": {
+                "mean_pooling": 0.88,
+                "max_pooling": 0.86
+            },
+            "2": {
+                "mean_pooling": 0.9,
+                "max_pooling": 0.85
+            },
+            "3": {
+                "mean_pooling": 0.89,
+                "max_pooling": 0.86
+            },
+            "4": {
+                "mean_pooling": 0.87,
+                "max_pooling": 0.86
+            },
+            "5": {
+                "mean_pooling": 0.9,
+                "max_pooling": 0.81
+            }
+        }
+    }
+}

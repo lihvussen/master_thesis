@@ -1,0 +1,6802 @@
+{
+    "79": {
+        "English-Swahili": [
+            0.36121872067451477
+        ],
+        "Swahili-English": [
+            0.5797460079193115
+        ],
+        "English-Yoruba": [
+            0.5014660954475403
+        ],
+        "Yoruba-English": [
+            0.2868618667125702
+        ],
+        "English-Hindi": [
+            0.3759804666042328
+        ],
+        "Hindi-English": [
+            0.4009111523628235
+        ],
+        "English-Urdu": [
+            0.33562612533569336
+        ],
+        "Urdu-English": [
+            0.6932311654090881
+        ],
+        "English-German": [
+            0.18019239604473114
+        ],
+        "German-English": [
+            0.22119854390621185
+        ],
+        "English-Italian": [
+            0.7230672836303711
+        ],
+        "Italian-English": [
+            0.7696269154548645
+        ],
+        "English-Spanish": [
+            0.6855319738388062
+        ],
+        "Spanish-English": [
+            0.2788184583187103
+        ],
+        "English-Polish": [
+            0.8047206997871399
+        ],
+        "Polish-English": [
+            0.27708107233047485
+        ],
+        "English-Croatian": [
+            0.9116218686103821
+        ],
+        "Croatian-English": [
+            0.8266997337341309
+        ],
+        "English-Russian": [
+            0.8733171224594116
+        ],
+        "Russian-English": [
+            0.28534767031669617
+        ],
+        "English-Hungarian": [
+            0.3004063069820404
+        ],
+        "Hungarian-English": [
+            0.8137431740760803
+        ]
+    },
+    "586": {
+        "English-Swahili": [
+            0.2656145393848419
+        ],
+        "Swahili-English": [
+            0.27079495787620544
+        ],
+        "English-Yoruba": [
+            0.3733535706996918
+        ],
+        "Yoruba-English": [
+            0.26942309737205505
+        ],
+        "English-Hindi": [
+            0.29165634512901306
+        ],
+        "Hindi-English": [
+            0.7702080607414246
+        ],
+        "English-Urdu": [
+            0.32395121455192566
+        ],
+        "Urdu-English": [
+            0.7462638020515442
+        ],
+        "English-German": [
+            0.19616921246051788
+        ],
+        "German-English": [
+            0.2598540186882019
+        ],
+        "English-Italian": [
+            0.12216007709503174
+        ],
+        "Italian-English": [
+            0.8993392586708069
+        ],
+        "English-Spanish": [
+            0.7153014540672302
+        ],
+        "Spanish-English": [
+            0.2681305706501007
+        ],
+        "English-Polish": [
+            0.23628252744674683
+        ],
+        "Polish-English": [
+            0.2532574236392975
+        ],
+        "English-Croatian": [
+            0.5761404037475586
+        ],
+        "Croatian-English": [
+            0.2716659605503082
+        ],
+        "English-Russian": [
+            0.211973175406456
+        ],
+        "Russian-English": [
+            0.26069435477256775
+        ],
+        "English-Hungarian": [
+            0.605827808380127
+        ],
+        "Hungarian-English": [
+            0.260959267616272
+        ]
+    },
+    "1426": {
+        "English-Swahili": [
+            0.4688076674938202
+        ],
+        "Swahili-English": [
+            0.629930317401886
+        ],
+        "English-Yoruba": [
+            0.5689414143562317
+        ],
+        "Yoruba-English": [
+            0.5773653984069824
+        ],
+        "English-Hindi": [
+            0.3603195548057556
+        ],
+        "Hindi-English": [
+            0.6746717095375061
+        ],
+        "English-Urdu": [
+            0.4470839202404022
+        ],
+        "Urdu-English": [
+            0.48893770575523376
+        ],
+        "English-German": [
+            0.916059672832489
+        ],
+        "German-English": [
+            0.8943430781364441
+        ],
+        "English-Italian": [
+            0.8981068730354309
+        ],
+        "Italian-English": [
+            0.853829562664032
+        ],
+        "English-Spanish": [
+            0.8248947262763977
+        ],
+        "Spanish-English": [
+            0.8778354525566101
+        ],
+        "English-Polish": [
+            0.35932859778404236
+        ],
+        "Polish-English": [
+            0.8419257998466492
+        ],
+        "English-Croatian": [
+            0.8862946033477783
+        ],
+        "Croatian-English": [
+            0.39523398876190186
+        ],
+        "English-Russian": [
+            0.7926345467567444
+        ],
+        "Russian-English": [
+            0.6963830590248108
+        ],
+        "English-Hungarian": [
+            0.8245121836662292
+        ],
+        "Hungarian-English": [
+            0.873347818851471
+        ]
+    },
+    "1562": {
+        "English-Swahili": [
+            0.2894405126571655
+        ],
+        "Swahili-English": [
+            0.282850444316864
+        ],
+        "English-Yoruba": [
+            0.46651124954223633
+        ],
+        "Yoruba-English": [
+            0.2687750458717346
+        ],
+        "English-Hindi": [
+            0.28728535771369934
+        ],
+        "Hindi-English": [
+            0.38643547892570496
+        ],
+        "English-Urdu": [
+            0.24568942189216614
+        ],
+        "Urdu-English": [
+            0.28983575105667114
+        ],
+        "English-German": [
+            0.23103782534599304
+        ],
+        "German-English": [
+            0.26486286520957947
+        ],
+        "English-Italian": [
+            0.2834051549434662
+        ],
+        "Italian-English": [
+            0.2717803120613098
+        ],
+        "English-Spanish": [
+            0.27183327078819275
+        ],
+        "Spanish-English": [
+            0.2796339690685272
+        ],
+        "English-Polish": [
+            0.251211017370224
+        ],
+        "Polish-English": [
+            0.28051477670669556
+        ],
+        "English-Croatian": [
+            0.2587150037288666
+        ],
+        "Croatian-English": [
+            0.27097275853157043
+        ],
+        "English-Russian": [
+            0.2564260959625244
+        ],
+        "Russian-English": [
+            0.29178282618522644
+        ],
+        "English-Hungarian": [
+            0.5430019497871399
+        ],
+        "Hungarian-English": [
+            0.2632148563861847
+        ]
+    },
+    "295": {
+        "English-Swahili": [
+            0.23038658499717712
+        ],
+        "Swahili-English": [
+            0.2693113386631012
+        ],
+        "English-Yoruba": [
+            0.37585747241973877
+        ],
+        "Yoruba-English": [
+            0.29975900053977966
+        ],
+        "English-Hindi": [
+            0.37318137288093567
+        ],
+        "Hindi-English": [
+            0.4505656063556671
+        ],
+        "English-Urdu": [
+            0.28096210956573486
+        ],
+        "Urdu-English": [
+            0.773407518863678
+        ],
+        "English-German": [
+            0.30885881185531616
+        ],
+        "German-English": [
+            0.8641866445541382
+        ],
+        "English-Italian": [
+            0.6541275382041931
+        ],
+        "Italian-English": [
+            0.8535398840904236
+        ],
+        "English-Spanish": [
+            0.6759718060493469
+        ],
+        "Spanish-English": [
+            0.8503579497337341
+        ],
+        "English-Polish": [
+            0.5455694794654846
+        ],
+        "Polish-English": [
+            0.8642581105232239
+        ],
+        "English-Croatian": [
+            0.45751872658729553
+        ],
+        "Croatian-English": [
+            0.892747163772583
+        ],
+        "English-Russian": [
+            0.6483259797096252
+        ],
+        "Russian-English": [
+            0.6204411387443542
+        ],
+        "English-Hungarian": [
+            0.6404700875282288
+        ],
+        "Hungarian-English": [
+            0.7055920362472534
+        ]
+    },
+    "1965": {
+        "English-Swahili": [
+            0.4120137691497803
+        ],
+        "Swahili-English": [
+            0.25789308547973633
+        ],
+        "English-Yoruba": [
+            0.5706486701965332
+        ],
+        "Yoruba-English": [
+            0.3489585220813751
+        ],
+        "English-Hindi": [
+            0.36380741000175476
+        ],
+        "Hindi-English": [
+            0.30862662196159363
+        ],
+        "English-Urdu": [
+            0.24969583749771118
+        ],
+        "Urdu-English": [
+            0.28064557909965515
+        ],
+        "English-German": [
+            0.522559404373169
+        ],
+        "German-English": [
+            0.2161194086074829
+        ],
+        "English-Italian": [
+            0.2902560532093048
+        ],
+        "Italian-English": [
+            0.2961884140968323
+        ],
+        "English-Spanish": [
+            0.660896897315979
+        ],
+        "Spanish-English": [
+            0.20212265849113464
+        ],
+        "English-Polish": [
+            0.5499718189239502
+        ],
+        "Polish-English": [
+            0.2778988182544708
+        ],
+        "English-Croatian": [
+            0.3223092555999756
+        ],
+        "Croatian-English": [
+            0.8965415358543396
+        ],
+        "English-Russian": [
+            0.2130170613527298
+        ],
+        "Russian-English": [
+            0.25126317143440247
+        ],
+        "English-Hungarian": [
+            0.2956797182559967
+        ],
+        "Hungarian-English": [
+            0.2658417522907257
+        ]
+    },
+    "948": {
+        "English-Swahili": [
+            0.3422529101371765
+        ],
+        "Swahili-English": [
+            0.39366233348846436
+        ],
+        "English-Yoruba": [
+            0.4352584183216095
+        ],
+        "Yoruba-English": [
+            0.38779976963996887
+        ],
+        "English-Hindi": [
+            0.36902758479118347
+        ],
+        "Hindi-English": [
+            0.36974138021469116
+        ],
+        "English-Urdu": [
+            0.3461158573627472
+        ],
+        "Urdu-English": [
+            0.5119209885597229
+        ],
+        "English-German": [
+            0.2975955009460449
+        ],
+        "German-English": [
+            0.36907002329826355
+        ],
+        "English-Italian": [
+            0.8370558023452759
+        ],
+        "Italian-English": [
+            0.3672761023044586
+        ],
+        "English-Spanish": [
+            0.3610290586948395
+        ],
+        "Spanish-English": [
+            0.38428303599357605
+        ],
+        "English-Polish": [
+            0.6130732297897339
+        ],
+        "Polish-English": [
+            0.37828579545021057
+        ],
+        "English-Croatian": [
+            0.4722493588924408
+        ],
+        "Croatian-English": [
+            0.3883695602416992
+        ],
+        "English-Russian": [
+            0.28200584650039673
+        ],
+        "Russian-English": [
+            0.3914165198802948
+        ],
+        "English-Hungarian": [
+            0.6839984059333801
+        ],
+        "Hungarian-English": [
+            0.37784746289253235
+        ]
+    },
+    "758": {
+        "English-Swahili": [
+            0.1964629590511322
+        ],
+        "Swahili-English": [
+            0.29883092641830444
+        ],
+        "English-Yoruba": [
+            0.4350118339061737
+        ],
+        "Yoruba-English": [
+            0.4433501660823822
+        ],
+        "English-Hindi": [
+            0.28935903310775757
+        ],
+        "Hindi-English": [
+            0.3028949797153473
+        ],
+        "English-Urdu": [
+            0.30967769026756287
+        ],
+        "Urdu-English": [
+            0.3082652986049652
+        ],
+        "English-German": [
+            0.23939849436283112
+        ],
+        "German-English": [
+            0.2833743393421173
+        ],
+        "English-Italian": [
+            0.255856990814209
+        ],
+        "Italian-English": [
+            0.28889012336730957
+        ],
+        "English-Spanish": [
+            0.26958197355270386
+        ],
+        "Spanish-English": [
+            0.28830355405807495
+        ],
+        "English-Polish": [
+            0.26133114099502563
+        ],
+        "Polish-English": [
+            0.28825438022613525
+        ],
+        "English-Croatian": [
+            0.3095957636833191
+        ],
+        "Croatian-English": [
+            0.2982397973537445
+        ],
+        "English-Russian": [
+            0.20520861446857452
+        ],
+        "Russian-English": [
+            0.3052646517753601
+        ],
+        "English-Hungarian": [
+            0.269804447889328
+        ],
+        "Hungarian-English": [
+            0.2857639491558075
+        ]
+    },
+    "1376": {
+        "English-Swahili": [
+            0.39614760875701904
+        ],
+        "Swahili-English": [
+            0.30186283588409424
+        ],
+        "English-Yoruba": [
+            0.4984354078769684
+        ],
+        "Yoruba-English": [
+            0.23125290870666504
+        ],
+        "English-Hindi": [
+            0.4075814187526703
+        ],
+        "Hindi-English": [
+            0.49320247769355774
+        ],
+        "English-Urdu": [
+            0.41483721137046814
+        ],
+        "Urdu-English": [
+            0.38391998410224915
+        ],
+        "English-German": [
+            0.25736725330352783
+        ],
+        "German-English": [
+            0.931365966796875
+        ],
+        "English-Italian": [
+            0.2953779995441437
+        ],
+        "Italian-English": [
+            0.2849438488483429
+        ],
+        "English-Spanish": [
+            0.27523335814476013
+        ],
+        "Spanish-English": [
+            0.28081509470939636
+        ],
+        "English-Polish": [
+            0.8424172401428223
+        ],
+        "Polish-English": [
+            0.29096028208732605
+        ],
+        "English-Croatian": [
+            0.25298526883125305
+        ],
+        "Croatian-English": [
+            0.3024453818798065
+        ],
+        "English-Russian": [
+            0.48080119490623474
+        ],
+        "Russian-English": [
+            0.8715574741363525
+        ],
+        "English-Hungarian": [
+            0.8505240678787231
+        ],
+        "Hungarian-English": [
+            0.2898368239402771
+        ]
+    },
+    "1431": {
+        "English-Swahili": [
+            0.2121100127696991
+        ],
+        "Swahili-English": [
+            0.2854209244251251
+        ],
+        "English-Yoruba": [
+            0.4727403223514557
+        ],
+        "Yoruba-English": [
+            0.2507683038711548
+        ],
+        "English-Hindi": [
+            0.37297412753105164
+        ],
+        "Hindi-English": [
+            0.3091783821582794
+        ],
+        "English-Urdu": [
+            0.37249937653541565
+        ],
+        "Urdu-English": [
+            0.5392835736274719
+        ],
+        "English-German": [
+            0.5790782570838928
+        ],
+        "German-English": [
+            0.47900572419166565
+        ],
+        "English-Italian": [
+            0.2656805217266083
+        ],
+        "Italian-English": [
+            0.7443903088569641
+        ],
+        "English-Spanish": [
+            0.6862947344779968
+        ],
+        "Spanish-English": [
+            0.288633793592453
+        ],
+        "English-Polish": [
+            0.4494728446006775
+        ],
+        "Polish-English": [
+            0.2739943563938141
+        ],
+        "English-Croatian": [
+            0.3269432485103607
+        ],
+        "Croatian-English": [
+            0.852233350276947
+        ],
+        "English-Russian": [
+            0.5493743419647217
+        ],
+        "Russian-English": [
+            0.21957054734230042
+        ],
+        "English-Hungarian": [
+            0.2824516296386719
+        ],
+        "Hungarian-English": [
+            0.4786002039909363
+        ]
+    },
+    "1624": {
+        "English-Swahili": [
+            0.5860222578048706
+        ],
+        "Swahili-English": [
+            0.45353594422340393
+        ],
+        "English-Yoruba": [
+            0.34869372844696045
+        ],
+        "Yoruba-English": [
+            0.22745457291603088
+        ],
+        "English-Hindi": [
+            0.3441605269908905
+        ],
+        "Hindi-English": [
+            0.8722366094589233
+        ],
+        "English-Urdu": [
+            0.40145570039749146
+        ],
+        "Urdu-English": [
+            0.777928352355957
+        ],
+        "English-German": [
+            0.923956036567688
+        ],
+        "German-English": [
+            0.9277549982070923
+        ],
+        "English-Italian": [
+            0.858566164970398
+        ],
+        "Italian-English": [
+            0.9069296717643738
+        ],
+        "English-Spanish": [
+            0.7844511270523071
+        ],
+        "Spanish-English": [
+            0.9022298455238342
+        ],
+        "English-Polish": [
+            0.6980372071266174
+        ],
+        "Polish-English": [
+            0.8874114155769348
+        ],
+        "English-Croatian": [
+            0.9766647815704346
+        ],
+        "Croatian-English": [
+            0.9406638741493225
+        ],
+        "English-Russian": [
+            0.9255440831184387
+        ],
+        "Russian-English": [
+            0.8824977278709412
+        ],
+        "English-Hungarian": [
+            0.5965830683708191
+        ],
+        "Hungarian-English": [
+            0.8912726640701294
+        ]
+    },
+    "198": {
+        "English-Swahili": [
+            0.2702232897281647
+        ],
+        "Swahili-English": [
+            0.41053903102874756
+        ],
+        "English-Yoruba": [
+            0.39203599095344543
+        ],
+        "Yoruba-English": [
+            0.3098743259906769
+        ],
+        "English-Hindi": [
+            0.23851215839385986
+        ],
+        "Hindi-English": [
+            0.4013112485408783
+        ],
+        "English-Urdu": [
+            0.2560505270957947
+        ],
+        "Urdu-English": [
+            0.3061802089214325
+        ],
+        "English-German": [
+            0.4953193962574005
+        ],
+        "German-English": [
+            0.281477153301239
+        ],
+        "English-Italian": [
+            0.5048711895942688
+        ],
+        "Italian-English": [
+            0.2908753752708435
+        ],
+        "English-Spanish": [
+            0.6489863991737366
+        ],
+        "Spanish-English": [
+            0.2935890853404999
+        ],
+        "English-Polish": [
+            0.2817210257053375
+        ],
+        "Polish-English": [
+            0.2863721549510956
+        ],
+        "English-Croatian": [
+            0.19567428529262543
+        ],
+        "Croatian-English": [
+            0.29329219460487366
+        ],
+        "English-Russian": [
+            0.23225118219852448
+        ],
+        "Russian-English": [
+            0.4567857086658478
+        ],
+        "English-Hungarian": [
+            0.2538163363933563
+        ],
+        "Hungarian-English": [
+            0.29265016317367554
+        ]
+    },
+    "929": {
+        "English-Swahili": [
+            0.273944228887558
+        ],
+        "Swahili-English": [
+            0.286836177110672
+        ],
+        "English-Yoruba": [
+            0.37424758076667786
+        ],
+        "Yoruba-English": [
+            0.2941822409629822
+        ],
+        "English-Hindi": [
+            0.29134559631347656
+        ],
+        "Hindi-English": [
+            0.2929382026195526
+        ],
+        "English-Urdu": [
+            0.41048234701156616
+        ],
+        "Urdu-English": [
+            0.30321481823921204
+        ],
+        "English-German": [
+            0.3131510019302368
+        ],
+        "German-English": [
+            0.3044487237930298
+        ],
+        "English-Italian": [
+            0.6096706986427307
+        ],
+        "Italian-English": [
+            0.8450683951377869
+        ],
+        "English-Spanish": [
+            0.6677590012550354
+        ],
+        "Spanish-English": [
+            0.8308058977127075
+        ],
+        "English-Polish": [
+            0.24395692348480225
+        ],
+        "Polish-English": [
+            0.2745351493358612
+        ],
+        "English-Croatian": [
+            0.6317459940910339
+        ],
+        "Croatian-English": [
+            0.2778935432434082
+        ],
+        "English-Russian": [
+            0.21207529306411743
+        ],
+        "Russian-English": [
+            0.28397589921951294
+        ],
+        "English-Hungarian": [
+            0.4684658646583557
+        ],
+        "Hungarian-English": [
+            0.29125070571899414
+        ]
+    },
+    "1227": {
+        "English-Swahili": [
+            0.5562122464179993
+        ],
+        "Swahili-English": [
+            0.6037782430648804
+        ],
+        "English-Yoruba": [
+            0.3236152231693268
+        ],
+        "Yoruba-English": [
+            0.4312562644481659
+        ],
+        "English-Hindi": [
+            0.8971354365348816
+        ],
+        "Hindi-English": [
+            0.8373406529426575
+        ],
+        "English-Urdu": [
+            0.7719605565071106
+        ],
+        "Urdu-English": [
+            0.7077418565750122
+        ],
+        "English-German": [
+            0.5684615969657898
+        ],
+        "German-English": [
+            0.5736339092254639
+        ],
+        "English-Italian": [
+            0.565549373626709
+        ],
+        "Italian-English": [
+            0.7851118445396423
+        ],
+        "English-Spanish": [
+            0.5285349488258362
+        ],
+        "Spanish-English": [
+            0.8292419910430908
+        ],
+        "English-Polish": [
+            0.5485129952430725
+        ],
+        "Polish-English": [
+            0.38485848903656006
+        ],
+        "English-Croatian": [
+            0.4636065661907196
+        ],
+        "Croatian-English": [
+            0.5846668481826782
+        ],
+        "English-Russian": [
+            0.5350366830825806
+        ],
+        "Russian-English": [
+            0.8084823489189148
+        ],
+        "English-Hungarian": [
+            0.8868996500968933
+        ],
+        "Hungarian-English": [
+            0.8322595357894897
+        ]
+    },
+    "1021": {
+        "English-Swahili": [
+            0.5538690686225891
+        ],
+        "Swahili-English": [
+            0.6053169369697571
+        ],
+        "English-Yoruba": [
+            0.6111657023429871
+        ],
+        "Yoruba-English": [
+            0.31642335653305054
+        ],
+        "English-Hindi": [
+            0.19750195741653442
+        ],
+        "Hindi-English": [
+            0.8107771277427673
+        ],
+        "English-Urdu": [
+            0.30021077394485474
+        ],
+        "Urdu-English": [
+            0.27891606092453003
+        ],
+        "English-German": [
+            0.23059788346290588
+        ],
+        "German-English": [
+            0.2693309485912323
+        ],
+        "English-Italian": [
+            0.6788063645362854
+        ],
+        "Italian-English": [
+            0.28295600414276123
+        ],
+        "English-Spanish": [
+            0.3116861879825592
+        ],
+        "Spanish-English": [
+            0.8671621084213257
+        ],
+        "English-Polish": [
+            0.9068319797515869
+        ],
+        "Polish-English": [
+            0.28210070729255676
+        ],
+        "English-Croatian": [
+            0.25991278886795044
+        ],
+        "Croatian-English": [
+            0.8421873450279236
+        ],
+        "English-Russian": [
+            0.9087463021278381
+        ],
+        "Russian-English": [
+            0.29211345314979553
+        ],
+        "English-Hungarian": [
+            0.2621001899242401
+        ],
+        "Hungarian-English": [
+            0.2906801998615265
+        ]
+    },
+    "1248": {
+        "English-Swahili": [
+            0.3801521360874176
+        ],
+        "Swahili-English": [
+            0.6696411967277527
+        ],
+        "English-Yoruba": [
+            0.5566055178642273
+        ],
+        "Yoruba-English": [
+            0.45246729254722595
+        ],
+        "English-Hindi": [
+            0.31212273240089417
+        ],
+        "Hindi-English": [
+            0.44111311435699463
+        ],
+        "English-Urdu": [
+            0.43630310893058777
+        ],
+        "Urdu-English": [
+            0.31380322575569153
+        ],
+        "English-German": [
+            0.6385506987571716
+        ],
+        "German-English": [
+            0.3269606828689575
+        ],
+        "English-Italian": [
+            0.8411098718643188
+        ],
+        "Italian-English": [
+            0.8888359665870667
+        ],
+        "English-Spanish": [
+            0.8645157814025879
+        ],
+        "Spanish-English": [
+            0.8419391512870789
+        ],
+        "English-Polish": [
+            0.9445578455924988
+        ],
+        "Polish-English": [
+            0.8193134665489197
+        ],
+        "English-Croatian": [
+            0.9340319037437439
+        ],
+        "Croatian-English": [
+            0.9052608013153076
+        ],
+        "English-Russian": [
+            0.9144974946975708
+        ],
+        "Russian-English": [
+            0.8647257685661316
+        ],
+        "English-Hungarian": [
+            0.641991376876831
+        ],
+        "Hungarian-English": [
+            0.7248390316963196
+        ]
+    },
+    "40": {
+        "English-Swahili": [
+            0.29684123396873474
+        ],
+        "Swahili-English": [
+            0.3322601318359375
+        ],
+        "English-Yoruba": [
+            0.40854600071907043
+        ],
+        "Yoruba-English": [
+            0.3427875339984894
+        ],
+        "English-Hindi": [
+            0.40116700530052185
+        ],
+        "Hindi-English": [
+            0.4204024076461792
+        ],
+        "English-Urdu": [
+            0.3570210933685303
+        ],
+        "Urdu-English": [
+            0.322001188993454
+        ],
+        "English-German": [
+            0.8889418244361877
+        ],
+        "German-English": [
+            0.9350804686546326
+        ],
+        "English-Italian": [
+            0.6254801154136658
+        ],
+        "Italian-English": [
+            0.3168143630027771
+        ],
+        "English-Spanish": [
+            0.779824435710907
+        ],
+        "Spanish-English": [
+            0.32073721289634705
+        ],
+        "English-Polish": [
+            0.6822702288627625
+        ],
+        "Polish-English": [
+            0.32093825936317444
+        ],
+        "English-Croatian": [
+            0.8123039603233337
+        ],
+        "Croatian-English": [
+            0.856937050819397
+        ],
+        "English-Russian": [
+            0.6076804399490356
+        ],
+        "Russian-English": [
+            0.8497219085693359
+        ],
+        "English-Hungarian": [
+            0.5785234570503235
+        ],
+        "Hungarian-English": [
+            0.33056187629699707
+        ]
+    },
+    "1053": {
+        "English-Swahili": [
+            0.6959716081619263
+        ],
+        "Swahili-English": [
+            0.36226388812065125
+        ],
+        "English-Yoruba": [
+            0.3195895552635193
+        ],
+        "Yoruba-English": [
+            0.5211219191551208
+        ],
+        "English-Hindi": [
+            0.19349676370620728
+        ],
+        "Hindi-English": [
+            0.29148533940315247
+        ],
+        "English-Urdu": [
+            0.23613418638706207
+        ],
+        "Urdu-English": [
+            0.48223206400871277
+        ],
+        "English-German": [
+            0.2362183779478073
+        ],
+        "German-English": [
+            0.548671305179596
+        ],
+        "English-Italian": [
+            0.2442021369934082
+        ],
+        "Italian-English": [
+            0.5650716423988342
+        ],
+        "English-Spanish": [
+            0.2527447044849396
+        ],
+        "Spanish-English": [
+            0.5588322281837463
+        ],
+        "English-Polish": [
+            0.20940499007701874
+        ],
+        "Polish-English": [
+            0.5553029775619507
+        ],
+        "English-Croatian": [
+            0.34396588802337646
+        ],
+        "Croatian-English": [
+            0.5842047929763794
+        ],
+        "English-Russian": [
+            0.15050798654556274
+        ],
+        "Russian-English": [
+            0.38896647095680237
+        ],
+        "English-Hungarian": [
+            0.25426915287971497
+        ],
+        "Hungarian-English": [
+            0.4324073791503906
+        ]
+    },
+    "886": {
+        "English-Swahili": [
+            0.2385208010673523
+        ],
+        "Swahili-English": [
+            0.31501221656799316
+        ],
+        "English-Yoruba": [
+            0.3820829689502716
+        ],
+        "Yoruba-English": [
+            0.27877169847488403
+        ],
+        "English-Hindi": [
+            0.440555214881897
+        ],
+        "Hindi-English": [
+            0.3143027424812317
+        ],
+        "English-Urdu": [
+            0.2622094452381134
+        ],
+        "Urdu-English": [
+            0.27498510479927063
+        ],
+        "English-German": [
+            0.22344745695590973
+        ],
+        "German-English": [
+            0.7002965807914734
+        ],
+        "English-Italian": [
+            0.20630043745040894
+        ],
+        "Italian-English": [
+            0.9293069243431091
+        ],
+        "English-Spanish": [
+            0.9404270052909851
+        ],
+        "Spanish-English": [
+            0.2694863975048065
+        ],
+        "English-Polish": [
+            0.23040564358234406
+        ],
+        "Polish-English": [
+            0.9000615477561951
+        ],
+        "English-Croatian": [
+            0.9749308228492737
+        ],
+        "Croatian-English": [
+            0.2681666314601898
+        ],
+        "English-Russian": [
+            0.14916831254959106
+        ],
+        "Russian-English": [
+            0.27718353271484375
+        ],
+        "English-Hungarian": [
+            0.24101918935775757
+        ],
+        "Hungarian-English": [
+            0.26404908299446106
+        ]
+    },
+    "1181": {
+        "English-Swahili": [
+            0.15286892652511597
+        ],
+        "Swahili-English": [
+            0.24790945649147034
+        ],
+        "English-Yoruba": [
+            0.5595710277557373
+        ],
+        "Yoruba-English": [
+            0.24528709053993225
+        ],
+        "English-Hindi": [
+            0.22156840562820435
+        ],
+        "Hindi-English": [
+            0.7751829624176025
+        ],
+        "English-Urdu": [
+            0.2558187246322632
+        ],
+        "Urdu-English": [
+            0.256146639585495
+        ],
+        "English-German": [
+            0.19561421871185303
+        ],
+        "German-English": [
+            0.24268633127212524
+        ],
+        "English-Italian": [
+            0.5527963042259216
+        ],
+        "Italian-English": [
+            0.22561654448509216
+        ],
+        "English-Spanish": [
+            0.18630635738372803
+        ],
+        "Spanish-English": [
+            0.2502937614917755
+        ],
+        "English-Polish": [
+            0.42884042859077454
+        ],
+        "Polish-English": [
+            0.24152901768684387
+        ],
+        "English-Croatian": [
+            0.18393835425376892
+        ],
+        "Croatian-English": [
+            0.2473818063735962
+        ],
+        "English-Russian": [
+            0.6166284680366516
+        ],
+        "Russian-English": [
+            0.236795574426651
+        ],
+        "English-Hungarian": [
+            0.21488869190216064
+        ],
+        "Hungarian-English": [
+            0.22694993019104004
+        ]
+    },
+    "763": {
+        "English-Swahili": [
+            0.3743431866168976
+        ],
+        "Swahili-English": [
+            0.5237327218055725
+        ],
+        "English-Yoruba": [
+            0.45704540610313416
+        ],
+        "Yoruba-English": [
+            0.28193074464797974
+        ],
+        "English-Hindi": [
+            0.3351273834705353
+        ],
+        "Hindi-English": [
+            0.3594914674758911
+        ],
+        "English-Urdu": [
+            0.2553907632827759
+        ],
+        "Urdu-English": [
+            0.3611452877521515
+        ],
+        "English-German": [
+            0.8268382549285889
+        ],
+        "German-English": [
+            0.3152606189250946
+        ],
+        "English-Italian": [
+            0.7454031109809875
+        ],
+        "Italian-English": [
+            0.8916279673576355
+        ],
+        "English-Spanish": [
+            0.26524022221565247
+        ],
+        "Spanish-English": [
+            0.32249072194099426
+        ],
+        "English-Polish": [
+            0.1985354870557785
+        ],
+        "Polish-English": [
+            0.8917939066886902
+        ],
+        "English-Croatian": [
+            0.2516023814678192
+        ],
+        "Croatian-English": [
+            0.32197844982147217
+        ],
+        "English-Russian": [
+            0.2069452404975891
+        ],
+        "Russian-English": [
+            0.3306666314601898
+        ],
+        "English-Hungarian": [
+            0.6322426795959473
+        ],
+        "Hungarian-English": [
+            0.3244050145149231
+        ]
+    },
+    "1279": {
+        "English-Swahili": [
+            0.3736589252948761
+        ],
+        "Swahili-English": [
+            0.2771646976470947
+        ],
+        "English-Yoruba": [
+            0.3446643054485321
+        ],
+        "Yoruba-English": [
+            0.28878068923950195
+        ],
+        "English-Hindi": [
+            0.3844510018825531
+        ],
+        "Hindi-English": [
+            0.276041716337204
+        ],
+        "English-Urdu": [
+            0.3783164322376251
+        ],
+        "Urdu-English": [
+            0.2630384862422943
+        ],
+        "English-German": [
+            0.2563377916812897
+        ],
+        "German-English": [
+            0.2803085148334503
+        ],
+        "English-Italian": [
+            0.3116062581539154
+        ],
+        "Italian-English": [
+            0.26621145009994507
+        ],
+        "English-Spanish": [
+            0.9422211050987244
+        ],
+        "Spanish-English": [
+            0.2923066318035126
+        ],
+        "English-Polish": [
+            0.3106899559497833
+        ],
+        "Polish-English": [
+            0.2739701271057129
+        ],
+        "English-Croatian": [
+            0.7091737389564514
+        ],
+        "Croatian-English": [
+            0.91616290807724
+        ],
+        "English-Russian": [
+            0.2219279706478119
+        ],
+        "Russian-English": [
+            0.9003486037254333
+        ],
+        "English-Hungarian": [
+            0.8862304091453552
+        ],
+        "Hungarian-English": [
+            0.2995302975177765
+        ]
+    },
+    "1746": {
+        "English-Swahili": [
+            0.45478567481040955
+        ],
+        "Swahili-English": [
+            0.5745366215705872
+        ],
+        "English-Yoruba": [
+            0.325905978679657
+        ],
+        "Yoruba-English": [
+            0.39269956946372986
+        ],
+        "English-Hindi": [
+            0.36007627844810486
+        ],
+        "Hindi-English": [
+            0.8096722960472107
+        ],
+        "English-Urdu": [
+            0.33376768231391907
+        ],
+        "Urdu-English": [
+            0.34686774015426636
+        ],
+        "English-German": [
+            0.27233800292015076
+        ],
+        "German-English": [
+            0.6260948181152344
+        ],
+        "English-Italian": [
+            0.7642971873283386
+        ],
+        "Italian-English": [
+            0.28490149974823
+        ],
+        "English-Spanish": [
+            0.2979316711425781
+        ],
+        "Spanish-English": [
+            0.28809309005737305
+        ],
+        "English-Polish": [
+            0.3936173617839813
+        ],
+        "Polish-English": [
+            0.5413348078727722
+        ],
+        "English-Croatian": [
+            0.3993624150753021
+        ],
+        "Croatian-English": [
+            0.5757717490196228
+        ],
+        "English-Russian": [
+            0.19036543369293213
+        ],
+        "Russian-English": [
+            0.2967207431793213
+        ],
+        "English-Hungarian": [
+            0.8860300183296204
+        ],
+        "Hungarian-English": [
+            0.7736697793006897
+        ]
+    },
+    "1940": {
+        "English-Swahili": [
+            0.343664288520813
+        ],
+        "Swahili-English": [
+            0.25565046072006226
+        ],
+        "English-Yoruba": [
+            0.3591505289077759
+        ],
+        "Yoruba-English": [
+            0.24459010362625122
+        ],
+        "English-Hindi": [
+            0.33278217911720276
+        ],
+        "Hindi-English": [
+            0.43586990237236023
+        ],
+        "English-Urdu": [
+            0.46761736273765564
+        ],
+        "Urdu-English": [
+            0.7352852821350098
+        ],
+        "English-German": [
+            0.1990625113248825
+        ],
+        "German-English": [
+            0.8501502871513367
+        ],
+        "English-Italian": [
+            0.24752971529960632
+        ],
+        "Italian-English": [
+            0.24121597409248352
+        ],
+        "English-Spanish": [
+            0.23323172330856323
+        ],
+        "Spanish-English": [
+            0.24814289808273315
+        ],
+        "English-Polish": [
+            0.24698546528816223
+        ],
+        "Polish-English": [
+            0.23873236775398254
+        ],
+        "English-Croatian": [
+            0.7314755320549011
+        ],
+        "Croatian-English": [
+            0.26090875267982483
+        ],
+        "English-Russian": [
+            0.17723235487937927
+        ],
+        "Russian-English": [
+            0.2562360167503357
+        ],
+        "English-Hungarian": [
+            0.5394391417503357
+        ],
+        "Hungarian-English": [
+            0.25274983048439026
+        ]
+    },
+    "1121": {
+        "English-Swahili": [
+            0.3194877803325653
+        ],
+        "Swahili-English": [
+            0.48137858510017395
+        ],
+        "English-Yoruba": [
+            0.5619257688522339
+        ],
+        "Yoruba-English": [
+            0.4042149484157562
+        ],
+        "English-Hindi": [
+            0.3668627440929413
+        ],
+        "Hindi-English": [
+            0.8899368643760681
+        ],
+        "English-Urdu": [
+            0.3738974630832672
+        ],
+        "Urdu-English": [
+            0.5931519865989685
+        ],
+        "English-German": [
+            0.5058718919754028
+        ],
+        "German-English": [
+            0.8501502871513367
+        ],
+        "English-Italian": [
+            0.36403003334999084
+        ],
+        "Italian-English": [
+            0.28339236974716187
+        ],
+        "English-Spanish": [
+            0.28907856345176697
+        ],
+        "Spanish-English": [
+            0.842836320400238
+        ],
+        "English-Polish": [
+            0.38150981068611145
+        ],
+        "Polish-English": [
+            0.3010522425174713
+        ],
+        "English-Croatian": [
+            0.3866586983203888
+        ],
+        "Croatian-English": [
+            0.357830673456192
+        ],
+        "English-Russian": [
+            0.2584051191806793
+        ],
+        "Russian-English": [
+            0.34678003191947937
+        ],
+        "English-Hungarian": [
+            0.8911212086677551
+        ],
+        "Hungarian-English": [
+            0.2766273319721222
+        ]
+    },
+    "1816": {
+        "English-Swahili": [
+            0.36514702439308167
+        ],
+        "Swahili-English": [
+            0.2727970778942108
+        ],
+        "English-Yoruba": [
+            0.36195504665374756
+        ],
+        "Yoruba-English": [
+            0.2796162962913513
+        ],
+        "English-Hindi": [
+            0.2764986753463745
+        ],
+        "Hindi-English": [
+            0.4028584361076355
+        ],
+        "English-Urdu": [
+            0.26125970482826233
+        ],
+        "Urdu-English": [
+            0.503642737865448
+        ],
+        "English-German": [
+            0.23966829478740692
+        ],
+        "German-English": [
+            0.26676931977272034
+        ],
+        "English-Italian": [
+            0.2480570375919342
+        ],
+        "Italian-English": [
+            0.260160893201828
+        ],
+        "English-Spanish": [
+            0.2512665390968323
+        ],
+        "Spanish-English": [
+            0.2638169527053833
+        ],
+        "English-Polish": [
+            0.4950736463069916
+        ],
+        "Polish-English": [
+            0.2624222934246063
+        ],
+        "English-Croatian": [
+            0.38890382647514343
+        ],
+        "Croatian-English": [
+            0.2690940201282501
+        ],
+        "English-Russian": [
+            0.16823710501194
+        ],
+        "Russian-English": [
+            0.2735176384449005
+        ],
+        "English-Hungarian": [
+            0.712271511554718
+        ],
+        "Hungarian-English": [
+            0.2566228210926056
+        ]
+    },
+    "1547": {
+        "English-Swahili": [
+            0.25449681282043457
+        ],
+        "Swahili-English": [
+            0.23763889074325562
+        ],
+        "English-Yoruba": [
+            0.2973136007785797
+        ],
+        "Yoruba-English": [
+            0.24352960288524628
+        ],
+        "English-Hindi": [
+            0.3045991361141205
+        ],
+        "Hindi-English": [
+            0.24533197283744812
+        ],
+        "English-Urdu": [
+            0.31571659445762634
+        ],
+        "Urdu-English": [
+            0.23853419721126556
+        ],
+        "English-German": [
+            0.19312715530395508
+        ],
+        "German-English": [
+            0.22472965717315674
+        ],
+        "English-Italian": [
+            0.21628440916538239
+        ],
+        "Italian-English": [
+            0.23622708022594452
+        ],
+        "English-Spanish": [
+            0.7699803709983826
+        ],
+        "Spanish-English": [
+            0.23096133768558502
+        ],
+        "English-Polish": [
+            0.22738957405090332
+        ],
+        "Polish-English": [
+            0.22949229180812836
+        ],
+        "English-Croatian": [
+            0.6214306354522705
+        ],
+        "Croatian-English": [
+            0.233511820435524
+        ],
+        "English-Russian": [
+            0.13369035720825195
+        ],
+        "Russian-English": [
+            0.243739515542984
+        ],
+        "English-Hungarian": [
+            0.5979280471801758
+        ],
+        "Hungarian-English": [
+            0.23377099633216858
+        ]
+    },
+    "1948": {
+        "English-Swahili": [
+            0.3797283172607422
+        ],
+        "Swahili-English": [
+            0.2656955420970917
+        ],
+        "English-Yoruba": [
+            0.4706641435623169
+        ],
+        "Yoruba-English": [
+            0.29648682475090027
+        ],
+        "English-Hindi": [
+            0.3538567125797272
+        ],
+        "Hindi-English": [
+            0.29616472125053406
+        ],
+        "English-Urdu": [
+            0.28458866477012634
+        ],
+        "Urdu-English": [
+            0.2802785336971283
+        ],
+        "English-German": [
+            0.1911473572254181
+        ],
+        "German-English": [
+            0.2517848312854767
+        ],
+        "English-Italian": [
+            0.28102537989616394
+        ],
+        "Italian-English": [
+            0.2653801739215851
+        ],
+        "English-Spanish": [
+            0.2412659078836441
+        ],
+        "Spanish-English": [
+            0.2697085440158844
+        ],
+        "English-Polish": [
+            0.2728709876537323
+        ],
+        "Polish-English": [
+            0.26430752873420715
+        ],
+        "English-Croatian": [
+            0.46663346886634827
+        ],
+        "Croatian-English": [
+            0.26530349254608154
+        ],
+        "English-Russian": [
+            0.19873881340026855
+        ],
+        "Russian-English": [
+            0.2730511426925659
+        ],
+        "English-Hungarian": [
+            0.3704908788204193
+        ],
+        "Hungarian-English": [
+            0.27039065957069397
+        ]
+    },
+    "889": {
+        "English-Swahili": [
+            0.39670971035957336
+        ],
+        "Swahili-English": [
+            0.40445706248283386
+        ],
+        "English-Yoruba": [
+            0.5170654654502869
+        ],
+        "Yoruba-English": [
+            0.5279036164283752
+        ],
+        "English-Hindi": [
+            0.2675290107727051
+        ],
+        "Hindi-English": [
+            0.37304458022117615
+        ],
+        "English-Urdu": [
+            0.4073733985424042
+        ],
+        "Urdu-English": [
+            0.5002426505088806
+        ],
+        "English-German": [
+            0.884382426738739
+        ],
+        "German-English": [
+            0.8162475228309631
+        ],
+        "English-Italian": [
+            0.33365437388420105
+        ],
+        "Italian-English": [
+            0.8253164887428284
+        ],
+        "English-Spanish": [
+            0.901382327079773
+        ],
+        "Spanish-English": [
+            0.5718967914581299
+        ],
+        "English-Polish": [
+            0.27879807353019714
+        ],
+        "Polish-English": [
+            0.8588419556617737
+        ],
+        "English-Croatian": [
+            0.23249955475330353
+        ],
+        "Croatian-English": [
+            0.6116742491722107
+        ],
+        "English-Russian": [
+            0.672480583190918
+        ],
+        "Russian-English": [
+            0.28887882828712463
+        ],
+        "English-Hungarian": [
+            0.23395565152168274
+        ],
+        "Hungarian-English": [
+            0.2896496057510376
+        ]
+    },
+    "807": {
+        "English-Swahili": [
+            0.2889115810394287
+        ],
+        "Swahili-English": [
+            0.8235684037208557
+        ],
+        "English-Yoruba": [
+            0.5636650323867798
+        ],
+        "Yoruba-English": [
+            0.2806721031665802
+        ],
+        "English-Hindi": [
+            0.4512096345424652
+        ],
+        "Hindi-English": [
+            0.4521367847919464
+        ],
+        "English-Urdu": [
+            0.40836772322654724
+        ],
+        "Urdu-English": [
+            0.28424930572509766
+        ],
+        "English-German": [
+            0.24626538157463074
+        ],
+        "German-English": [
+            0.29467475414276123
+        ],
+        "English-Italian": [
+            0.29017743468284607
+        ],
+        "Italian-English": [
+            0.28349223732948303
+        ],
+        "English-Spanish": [
+            0.29009464383125305
+        ],
+        "Spanish-English": [
+            0.82917320728302
+        ],
+        "English-Polish": [
+            0.2556978762149811
+        ],
+        "Polish-English": [
+            0.29557088017463684
+        ],
+        "English-Croatian": [
+            0.28800463676452637
+        ],
+        "Croatian-English": [
+            0.29253286123275757
+        ],
+        "English-Russian": [
+            0.884820282459259
+        ],
+        "Russian-English": [
+            0.3071737587451935
+        ],
+        "English-Hungarian": [
+            0.2732103765010834
+        ],
+        "Hungarian-English": [
+            0.28267183899879456
+        ]
+    },
+    "361": {
+        "English-Swahili": [
+            0.26355093717575073
+        ],
+        "Swahili-English": [
+            0.3081839382648468
+        ],
+        "English-Yoruba": [
+            0.4789610207080841
+        ],
+        "Yoruba-English": [
+            0.30393096804618835
+        ],
+        "English-Hindi": [
+            0.32190176844596863
+        ],
+        "Hindi-English": [
+            0.2772647738456726
+        ],
+        "English-Urdu": [
+            0.3380640745162964
+        ],
+        "Urdu-English": [
+            0.2932184636592865
+        ],
+        "English-German": [
+            0.2779940366744995
+        ],
+        "German-English": [
+            0.26886358857154846
+        ],
+        "English-Italian": [
+            0.28109467029571533
+        ],
+        "Italian-English": [
+            0.2717679440975189
+        ],
+        "English-Spanish": [
+            0.2586759030818939
+        ],
+        "Spanish-English": [
+            0.8993573784828186
+        ],
+        "English-Polish": [
+            0.9164252877235413
+        ],
+        "Polish-English": [
+            0.27660056948661804
+        ],
+        "English-Croatian": [
+            0.9547976851463318
+        ],
+        "Croatian-English": [
+            0.2757233679294586
+        ],
+        "English-Russian": [
+            0.2961404025554657
+        ],
+        "Russian-English": [
+            0.2827349305152893
+        ],
+        "English-Hungarian": [
+            0.27768173813819885
+        ],
+        "Hungarian-English": [
+            0.28459545969963074
+        ]
+    },
+    "119": {
+        "English-Swahili": [
+            0.296851247549057
+        ],
+        "Swahili-English": [
+            0.6111952066421509
+        ],
+        "English-Yoruba": [
+            0.3829762041568756
+        ],
+        "Yoruba-English": [
+            0.26594680547714233
+        ],
+        "English-Hindi": [
+            0.5654574036598206
+        ],
+        "Hindi-English": [
+            0.5211598873138428
+        ],
+        "English-Urdu": [
+            0.28820857405662537
+        ],
+        "Urdu-English": [
+            0.5419744253158569
+        ],
+        "English-German": [
+            0.25771793723106384
+        ],
+        "German-English": [
+            0.2881336510181427
+        ],
+        "English-Italian": [
+            0.25999733805656433
+        ],
+        "Italian-English": [
+            0.2805245518684387
+        ],
+        "English-Spanish": [
+            0.9102842211723328
+        ],
+        "Spanish-English": [
+            0.8396647572517395
+        ],
+        "English-Polish": [
+            0.3093843162059784
+        ],
+        "Polish-English": [
+            0.28186970949172974
+        ],
+        "English-Croatian": [
+            0.2674054503440857
+        ],
+        "Croatian-English": [
+            0.28644827008247375
+        ],
+        "English-Russian": [
+            0.2216264009475708
+        ],
+        "Russian-English": [
+            0.5678274631500244
+        ],
+        "English-Hungarian": [
+            0.28599920868873596
+        ],
+        "Hungarian-English": [
+            0.5305901765823364
+        ]
+    },
+    "1743": {
+        "English-Swahili": [
+            0.2837546467781067
+        ],
+        "Swahili-English": [
+            0.2514417767524719
+        ],
+        "English-Yoruba": [
+            0.5119165182113647
+        ],
+        "Yoruba-English": [
+            0.31753936409950256
+        ],
+        "English-Hindi": [
+            0.27464231848716736
+        ],
+        "Hindi-English": [
+            0.2631409466266632
+        ],
+        "English-Urdu": [
+            0.28921422362327576
+        ],
+        "Urdu-English": [
+            0.2644827663898468
+        ],
+        "English-German": [
+            0.8958331942558289
+        ],
+        "German-English": [
+            0.2382531464099884
+        ],
+        "English-Italian": [
+            0.8886524438858032
+        ],
+        "Italian-English": [
+            0.23680366575717926
+        ],
+        "English-Spanish": [
+            0.8997535109519958
+        ],
+        "Spanish-English": [
+            0.883902907371521
+        ],
+        "English-Polish": [
+            0.6401438117027283
+        ],
+        "Polish-English": [
+            0.4975287616252899
+        ],
+        "English-Croatian": [
+            0.3184276521205902
+        ],
+        "Croatian-English": [
+            0.24167591333389282
+        ],
+        "English-Russian": [
+            0.8461459875106812
+        ],
+        "Russian-English": [
+            0.24377839267253876
+        ],
+        "English-Hungarian": [
+            0.7364805936813354
+        ],
+        "Hungarian-English": [
+            0.23133625090122223
+        ]
+    },
+    "220": {
+        "English-Swahili": [
+            0.2905825078487396
+        ],
+        "Swahili-English": [
+            0.2449077069759369
+        ],
+        "English-Yoruba": [
+            0.354043573141098
+        ],
+        "Yoruba-English": [
+            0.2640930712223053
+        ],
+        "English-Hindi": [
+            0.33321672677993774
+        ],
+        "Hindi-English": [
+            0.36492109298706055
+        ],
+        "English-Urdu": [
+            0.3067323863506317
+        ],
+        "Urdu-English": [
+            0.2638637125492096
+        ],
+        "English-German": [
+            0.2275008112192154
+        ],
+        "German-English": [
+            0.24791529774665833
+        ],
+        "English-Italian": [
+            0.34818145632743835
+        ],
+        "Italian-English": [
+            0.4553490877151489
+        ],
+        "English-Spanish": [
+            0.8146458268165588
+        ],
+        "Spanish-English": [
+            0.3153115212917328
+        ],
+        "English-Polish": [
+            0.36216485500335693
+        ],
+        "Polish-English": [
+            0.2566314935684204
+        ],
+        "English-Croatian": [
+            0.6353170275688171
+        ],
+        "Croatian-English": [
+            0.2542446553707123
+        ],
+        "English-Russian": [
+            0.40086469054222107
+        ],
+        "Russian-English": [
+            0.24965190887451172
+        ],
+        "English-Hungarian": [
+            0.7161893248558044
+        ],
+        "Hungarian-English": [
+            0.24499055743217468
+        ]
+    },
+    "1680": {
+        "English-Swahili": [
+            0.3528309166431427
+        ],
+        "Swahili-English": [
+            0.8226030468940735
+        ],
+        "English-Yoruba": [
+            0.559654176235199
+        ],
+        "Yoruba-English": [
+            0.3837480843067169
+        ],
+        "English-Hindi": [
+            0.4029481112957001
+        ],
+        "Hindi-English": [
+            0.6620144248008728
+        ],
+        "English-Urdu": [
+            0.3664340674877167
+        ],
+        "Urdu-English": [
+            0.38849470019340515
+        ],
+        "English-German": [
+            0.2621026337146759
+        ],
+        "German-English": [
+            0.8766502141952515
+        ],
+        "English-Italian": [
+            0.8214619755744934
+        ],
+        "Italian-English": [
+            0.46520552039146423
+        ],
+        "English-Spanish": [
+            0.3538690507411957
+        ],
+        "Spanish-English": [
+            0.4285270869731903
+        ],
+        "English-Polish": [
+            0.6564708948135376
+        ],
+        "Polish-English": [
+            0.38432225584983826
+        ],
+        "English-Croatian": [
+            0.625093400478363
+        ],
+        "Croatian-English": [
+            0.4669635593891144
+        ],
+        "English-Russian": [
+            0.29344436526298523
+        ],
+        "Russian-English": [
+            0.44863462448120117
+        ],
+        "English-Hungarian": [
+            0.31851187348365784
+        ],
+        "Hungarian-English": [
+            0.3831970989704132
+        ]
+    },
+    "256": {
+        "English-Swahili": [
+            0.33816877007484436
+        ],
+        "Swahili-English": [
+            0.28335437178611755
+        ],
+        "English-Yoruba": [
+            0.6056103706359863
+        ],
+        "Yoruba-English": [
+            0.28216907382011414
+        ],
+        "English-Hindi": [
+            0.36328864097595215
+        ],
+        "Hindi-English": [
+            0.44248053431510925
+        ],
+        "English-Urdu": [
+            0.32469433546066284
+        ],
+        "Urdu-English": [
+            0.29411444067955017
+        ],
+        "English-German": [
+            0.2322128415107727
+        ],
+        "German-English": [
+            0.2733669579029083
+        ],
+        "English-Italian": [
+            0.7262396216392517
+        ],
+        "Italian-English": [
+            0.2749285399913788
+        ],
+        "English-Spanish": [
+            0.9089933633804321
+        ],
+        "Spanish-English": [
+            0.2919001877307892
+        ],
+        "English-Polish": [
+            0.2699167728424072
+        ],
+        "Polish-English": [
+            0.28694942593574524
+        ],
+        "English-Croatian": [
+            0.24939653277397156
+        ],
+        "Croatian-English": [
+            0.8701825737953186
+        ],
+        "English-Russian": [
+            0.17219950258731842
+        ],
+        "Russian-English": [
+            0.2881932556629181
+        ],
+        "English-Hungarian": [
+            0.8478696346282959
+        ],
+        "Hungarian-English": [
+            0.8790987133979797
+        ]
+    },
+    "770": {
+        "English-Swahili": [
+            0.26056772470474243
+        ],
+        "Swahili-English": [
+            0.24548295140266418
+        ],
+        "English-Yoruba": [
+            0.48335304856300354
+        ],
+        "Yoruba-English": [
+            0.27161502838134766
+        ],
+        "English-Hindi": [
+            0.35204359889030457
+        ],
+        "Hindi-English": [
+            0.2442934215068817
+        ],
+        "English-Urdu": [
+            0.3313329219818115
+        ],
+        "Urdu-English": [
+            0.2556728422641754
+        ],
+        "English-German": [
+            0.5142069458961487
+        ],
+        "German-English": [
+            0.8822569251060486
+        ],
+        "English-Italian": [
+            0.8145717978477478
+        ],
+        "Italian-English": [
+            0.8305920958518982
+        ],
+        "English-Spanish": [
+            0.8171200156211853
+        ],
+        "Spanish-English": [
+            0.8589248061180115
+        ],
+        "English-Polish": [
+            0.8145112991333008
+        ],
+        "Polish-English": [
+            0.22553867101669312
+        ],
+        "English-Croatian": [
+            0.6927917003631592
+        ],
+        "Croatian-English": [
+            0.23071789741516113
+        ],
+        "English-Russian": [
+            0.45206817984580994
+        ],
+        "Russian-English": [
+            0.23781172931194305
+        ],
+        "English-Hungarian": [
+            0.642792284488678
+        ],
+        "Hungarian-English": [
+            0.2293064296245575
+        ]
+    },
+    "315": {
+        "English-Swahili": [
+            0.28276023268699646
+        ],
+        "Swahili-English": [
+            0.2781241834163666
+        ],
+        "English-Yoruba": [
+            0.4167303144931793
+        ],
+        "Yoruba-English": [
+            0.24625501036643982
+        ],
+        "English-Hindi": [
+            0.2669944167137146
+        ],
+        "Hindi-English": [
+            0.25646910071372986
+        ],
+        "English-Urdu": [
+            0.3294239342212677
+        ],
+        "Urdu-English": [
+            0.35174015164375305
+        ],
+        "English-German": [
+            0.1656930148601532
+        ],
+        "German-English": [
+            0.2697649300098419
+        ],
+        "English-Italian": [
+            0.8323849439620972
+        ],
+        "Italian-English": [
+            0.9016366004943848
+        ],
+        "English-Spanish": [
+            0.2659846246242523
+        ],
+        "Spanish-English": [
+            0.27156221866607666
+        ],
+        "English-Polish": [
+            0.36764630675315857
+        ],
+        "Polish-English": [
+            0.2849808633327484
+        ],
+        "English-Croatian": [
+            0.278425931930542
+        ],
+        "Croatian-English": [
+            0.8639371395111084
+        ],
+        "English-Russian": [
+            0.14689098298549652
+        ],
+        "Russian-English": [
+            0.27299314737319946
+        ],
+        "English-Hungarian": [
+            0.30635717511177063
+        ],
+        "Hungarian-English": [
+            0.2624965012073517
+        ]
+    },
+    "197": {
+        "English-Swahili": [
+            0.4632748067378998
+        ],
+        "Swahili-English": [
+            0.3088093101978302
+        ],
+        "English-Yoruba": [
+            0.5987090468406677
+        ],
+        "Yoruba-English": [
+            0.29901906847953796
+        ],
+        "English-Hindi": [
+            0.3492254614830017
+        ],
+        "Hindi-English": [
+            0.37327736616134644
+        ],
+        "English-Urdu": [
+            0.36432895064353943
+        ],
+        "Urdu-English": [
+            0.24301084876060486
+        ],
+        "English-German": [
+            0.2169399857521057
+        ],
+        "German-English": [
+            0.29670003056526184
+        ],
+        "English-Italian": [
+            0.28193870186805725
+        ],
+        "Italian-English": [
+            0.30370622873306274
+        ],
+        "English-Spanish": [
+            0.3422899842262268
+        ],
+        "Spanish-English": [
+            0.30323711037635803
+        ],
+        "English-Polish": [
+            0.8866614103317261
+        ],
+        "Polish-English": [
+            0.30108675360679626
+        ],
+        "English-Croatian": [
+            0.6298292279243469
+        ],
+        "Croatian-English": [
+            0.30375009775161743
+        ],
+        "English-Russian": [
+            0.8974147439002991
+        ],
+        "Russian-English": [
+            0.30479052662849426
+        ],
+        "English-Hungarian": [
+            0.5078983902931213
+        ],
+        "Hungarian-English": [
+            0.2937787175178528
+        ]
+    },
+    "329": {
+        "English-Swahili": [
+            0.35042503476142883
+        ],
+        "Swahili-English": [
+            0.31773141026496887
+        ],
+        "English-Yoruba": [
+            0.5643504858016968
+        ],
+        "Yoruba-English": [
+            0.22827380895614624
+        ],
+        "English-Hindi": [
+            0.5910257697105408
+        ],
+        "Hindi-English": [
+            0.8920289874076843
+        ],
+        "English-Urdu": [
+            0.3444610834121704
+        ],
+        "Urdu-English": [
+            0.7762524485588074
+        ],
+        "English-German": [
+            0.6213454604148865
+        ],
+        "German-English": [
+            0.8751295804977417
+        ],
+        "English-Italian": [
+            0.7522401809692383
+        ],
+        "Italian-English": [
+            0.40570560097694397
+        ],
+        "English-Spanish": [
+            0.8524324893951416
+        ],
+        "Spanish-English": [
+            0.749915361404419
+        ],
+        "English-Polish": [
+            0.7854967713356018
+        ],
+        "Polish-English": [
+            0.7198016047477722
+        ],
+        "English-Croatian": [
+            0.8009749054908752
+        ],
+        "Croatian-English": [
+            0.7924144864082336
+        ],
+        "English-Russian": [
+            0.8700686097145081
+        ],
+        "Russian-English": [
+            0.8091751933097839
+        ],
+        "English-Hungarian": [
+            0.8818613290786743
+        ],
+        "Hungarian-English": [
+            0.7753944993019104
+        ]
+    },
+    "1050": {
+        "English-Swahili": [
+            0.2884296476840973
+        ],
+        "Swahili-English": [
+            0.2982974648475647
+        ],
+        "English-Yoruba": [
+            0.5896940231323242
+        ],
+        "Yoruba-English": [
+            0.2865552604198456
+        ],
+        "English-Hindi": [
+            0.34350255131721497
+        ],
+        "Hindi-English": [
+            0.38310888409614563
+        ],
+        "English-Urdu": [
+            0.3951726257801056
+        ],
+        "Urdu-English": [
+            0.30753809213638306
+        ],
+        "English-German": [
+            0.2533671259880066
+        ],
+        "German-English": [
+            0.30123335123062134
+        ],
+        "English-Italian": [
+            0.9152483940124512
+        ],
+        "Italian-English": [
+            0.294382780790329
+        ],
+        "English-Spanish": [
+            0.92325758934021
+        ],
+        "Spanish-English": [
+            0.30121588706970215
+        ],
+        "English-Polish": [
+            0.6153959035873413
+        ],
+        "Polish-English": [
+            0.3105041980743408
+        ],
+        "English-Croatian": [
+            0.8775354623794556
+        ],
+        "Croatian-English": [
+            0.3015606701374054
+        ],
+        "English-Russian": [
+            0.20944157242774963
+        ],
+        "Russian-English": [
+            0.8707065582275391
+        ],
+        "English-Hungarian": [
+            0.6837480664253235
+        ],
+        "Hungarian-English": [
+            0.3003704845905304
+        ]
+    },
+    "1710": {
+        "English-Swahili": [
+            0.3792720437049866
+        ],
+        "Swahili-English": [
+            0.6601347923278809
+        ],
+        "English-Yoruba": [
+            0.39382046461105347
+        ],
+        "Yoruba-English": [
+            0.609573483467102
+        ],
+        "English-Hindi": [
+            0.43108782172203064
+        ],
+        "Hindi-English": [
+            0.4140382707118988
+        ],
+        "English-Urdu": [
+            0.33757272362709045
+        ],
+        "Urdu-English": [
+            0.7729350328445435
+        ],
+        "English-German": [
+            0.8837087750434875
+        ],
+        "German-English": [
+            0.8762660622596741
+        ],
+        "English-Italian": [
+            0.8937405943870544
+        ],
+        "Italian-English": [
+            0.8672723174095154
+        ],
+        "English-Spanish": [
+            0.7735000252723694
+        ],
+        "Spanish-English": [
+            0.8727434277534485
+        ],
+        "English-Polish": [
+            0.9285586476325989
+        ],
+        "Polish-English": [
+            0.8708242177963257
+        ],
+        "English-Croatian": [
+            0.6565602421760559
+        ],
+        "Croatian-English": [
+            0.3605997860431671
+        ],
+        "English-Russian": [
+            0.9034667015075684
+        ],
+        "Russian-English": [
+            0.8382410407066345
+        ],
+        "English-Hungarian": [
+            0.8209100365638733
+        ],
+        "Hungarian-English": [
+            0.6949108242988586
+        ]
+    },
+    "1016": {
+        "English-Swahili": [
+            0.25192177295684814
+        ],
+        "Swahili-English": [
+            0.5909236073493958
+        ],
+        "English-Yoruba": [
+            0.43446382880210876
+        ],
+        "Yoruba-English": [
+            0.5641056299209595
+        ],
+        "English-Hindi": [
+            0.24415555596351624
+        ],
+        "Hindi-English": [
+            0.26464131474494934
+        ],
+        "English-Urdu": [
+            0.27824801206588745
+        ],
+        "Urdu-English": [
+            0.27126404643058777
+        ],
+        "English-German": [
+            0.1808452308177948
+        ],
+        "German-English": [
+            0.6008692979812622
+        ],
+        "English-Italian": [
+            0.42012688517570496
+        ],
+        "Italian-English": [
+            0.25642791390419006
+        ],
+        "English-Spanish": [
+            0.21398456394672394
+        ],
+        "Spanish-English": [
+            0.7087684869766235
+        ],
+        "English-Polish": [
+            0.2706221342086792
+        ],
+        "Polish-English": [
+            0.2937484383583069
+        ],
+        "English-Croatian": [
+            0.2831401228904724
+        ],
+        "Croatian-English": [
+            0.6931251883506775
+        ],
+        "English-Russian": [
+            0.17572608590126038
+        ],
+        "Russian-English": [
+            0.31607598066329956
+        ],
+        "English-Hungarian": [
+            0.4039718508720398
+        ],
+        "Hungarian-English": [
+            0.7498385906219482
+        ]
+    },
+    "264": {
+        "English-Swahili": [
+            0.2921102046966553
+        ],
+        "Swahili-English": [
+            0.26177093386650085
+        ],
+        "English-Yoruba": [
+            0.5548361539840698
+        ],
+        "Yoruba-English": [
+            0.4192047119140625
+        ],
+        "English-Hindi": [
+            0.3162042498588562
+        ],
+        "Hindi-English": [
+            0.292693555355072
+        ],
+        "English-Urdu": [
+            0.35454267263412476
+        ],
+        "Urdu-English": [
+            0.2688486874103546
+        ],
+        "English-German": [
+            0.24458211660385132
+        ],
+        "German-English": [
+            0.2552391588687897
+        ],
+        "English-Italian": [
+            0.6873700618743896
+        ],
+        "Italian-English": [
+            0.2664233446121216
+        ],
+        "English-Spanish": [
+            0.2612965404987335
+        ],
+        "Spanish-English": [
+            0.2670615017414093
+        ],
+        "English-Polish": [
+            0.26026085019111633
+        ],
+        "Polish-English": [
+            0.2547808587551117
+        ],
+        "English-Croatian": [
+            0.23812055587768555
+        ],
+        "Croatian-English": [
+            0.2569461166858673
+        ],
+        "English-Russian": [
+            0.27085423469543457
+        ],
+        "Russian-English": [
+            0.26385587453842163
+        ],
+        "English-Hungarian": [
+            0.28889915347099304
+        ],
+        "Hungarian-English": [
+            0.25251954793930054
+        ]
+    },
+    "1582": {
+        "English-Swahili": [
+            0.2502768635749817
+        ],
+        "Swahili-English": [
+            0.8087698817253113
+        ],
+        "English-Yoruba": [
+            0.6001735329627991
+        ],
+        "Yoruba-English": [
+            0.3339790403842926
+        ],
+        "English-Hindi": [
+            0.22661370038986206
+        ],
+        "Hindi-English": [
+            0.8126453757286072
+        ],
+        "English-Urdu": [
+            0.31387948989868164
+        ],
+        "Urdu-English": [
+            0.544076681137085
+        ],
+        "English-German": [
+            0.3323479890823364
+        ],
+        "German-English": [
+            0.3813358247280121
+        ],
+        "English-Italian": [
+            0.6541174054145813
+        ],
+        "Italian-English": [
+            0.6545736193656921
+        ],
+        "English-Spanish": [
+            0.5773199200630188
+        ],
+        "Spanish-English": [
+            0.25566330552101135
+        ],
+        "English-Polish": [
+            0.23685573041439056
+        ],
+        "Polish-English": [
+            0.8225084543228149
+        ],
+        "English-Croatian": [
+            0.8787336349487305
+        ],
+        "Croatian-English": [
+            0.8961396217346191
+        ],
+        "English-Russian": [
+            0.3825773298740387
+        ],
+        "Russian-English": [
+            0.7424928545951843
+        ],
+        "English-Hungarian": [
+            0.3480062484741211
+        ],
+        "Hungarian-English": [
+            0.26739922165870667
+        ]
+    },
+    "793": {
+        "English-Swahili": [
+            0.30106818675994873
+        ],
+        "Swahili-English": [
+            0.3277631998062134
+        ],
+        "English-Yoruba": [
+            0.5054560303688049
+        ],
+        "Yoruba-English": [
+            0.3000437915325165
+        ],
+        "English-Hindi": [
+            0.3466443717479706
+        ],
+        "Hindi-English": [
+            0.34891727566719055
+        ],
+        "English-Urdu": [
+            0.30124154686927795
+        ],
+        "Urdu-English": [
+            0.3290990889072418
+        ],
+        "English-German": [
+            0.28692060708999634
+        ],
+        "German-English": [
+            0.30947399139404297
+        ],
+        "English-Italian": [
+            0.2850014269351959
+        ],
+        "Italian-English": [
+            0.32235145568847656
+        ],
+        "English-Spanish": [
+            0.8683406710624695
+        ],
+        "Spanish-English": [
+            0.8599069714546204
+        ],
+        "English-Polish": [
+            0.29691189527511597
+        ],
+        "Polish-English": [
+            0.3192385733127594
+        ],
+        "English-Croatian": [
+            0.3587035536766052
+        ],
+        "Croatian-English": [
+            0.30958643555641174
+        ],
+        "English-Russian": [
+            0.7728189826011658
+        ],
+        "Russian-English": [
+            0.32274559140205383
+        ],
+        "English-Hungarian": [
+            0.29745787382125854
+        ],
+        "Hungarian-English": [
+            0.3143974244594574
+        ]
+    },
+    "1224": {
+        "English-Swahili": [
+            0.2704060673713684
+        ],
+        "Swahili-English": [
+            0.27865418791770935
+        ],
+        "English-Yoruba": [
+            0.408606618642807
+        ],
+        "Yoruba-English": [
+            0.28338292241096497
+        ],
+        "English-Hindi": [
+            0.41705772280693054
+        ],
+        "Hindi-English": [
+            0.28437477350234985
+        ],
+        "English-Urdu": [
+            0.31271255016326904
+        ],
+        "Urdu-English": [
+            0.20166057348251343
+        ],
+        "English-German": [
+            0.23721382021903992
+        ],
+        "German-English": [
+            0.2649957239627838
+        ],
+        "English-Italian": [
+            0.26991286873817444
+        ],
+        "Italian-English": [
+            0.7596386671066284
+        ],
+        "English-Spanish": [
+            0.6107268929481506
+        ],
+        "Spanish-English": [
+            0.2765263020992279
+        ],
+        "English-Polish": [
+            0.6118125319480896
+        ],
+        "Polish-English": [
+            0.272733598947525
+        ],
+        "English-Croatian": [
+            0.7590922713279724
+        ],
+        "Croatian-English": [
+            0.26994213461875916
+        ],
+        "English-Russian": [
+            0.6813361048698425
+        ],
+        "Russian-English": [
+            0.8139029741287231
+        ],
+        "English-Hungarian": [
+            0.25181102752685547
+        ],
+        "Hungarian-English": [
+            0.266583114862442
+        ]
+    },
+    "1038": {
+        "English-Swahili": [
+            0.7117559909820557
+        ],
+        "Swahili-English": [
+            0.496006578207016
+        ],
+        "English-Yoruba": [
+            0.9266706109046936
+        ],
+        "Yoruba-English": [
+            0.9248390793800354
+        ],
+        "English-Hindi": [
+            0.9889525771141052
+        ],
+        "Hindi-English": [
+            0.9362663626670837
+        ],
+        "English-Urdu": [
+            0.9889525771141052
+        ],
+        "Urdu-English": [
+            0.9362663626670837
+        ],
+        "English-German": [
+            0.87542724609375
+        ],
+        "German-English": [
+            0.9038955569267273
+        ],
+        "English-Italian": [
+            0.8108401894569397
+        ],
+        "Italian-English": [
+            0.7951970100402832
+        ],
+        "English-Spanish": [
+            0.9044320583343506
+        ],
+        "Spanish-English": [
+            0.9184192419052124
+        ],
+        "English-Polish": [
+            0.9005966186523438
+        ],
+        "Polish-English": [
+            0.9059945940971375
+        ],
+        "English-Croatian": [
+            0.4329806864261627
+        ],
+        "Croatian-English": [
+            0.8619545698165894
+        ],
+        "English-Russian": [
+            0.8457228541374207
+        ],
+        "Russian-English": [
+            0.7554810643196106
+        ],
+        "English-Hungarian": [
+            0.9195998907089233
+        ],
+        "Hungarian-English": [
+            0.9148972034454346
+        ]
+    },
+    "557": {
+        "English-Swahili": [
+            0.309720903635025
+        ],
+        "Swahili-English": [
+            0.2964220345020294
+        ],
+        "English-Yoruba": [
+            0.41596272587776184
+        ],
+        "Yoruba-English": [
+            0.2839032709598541
+        ],
+        "English-Hindi": [
+            0.29070910811424255
+        ],
+        "Hindi-English": [
+            0.2618192434310913
+        ],
+        "English-Urdu": [
+            0.35727545619010925
+        ],
+        "Urdu-English": [
+            0.2918993830680847
+        ],
+        "English-German": [
+            0.7470424175262451
+        ],
+        "German-English": [
+            0.28760823607444763
+        ],
+        "English-Italian": [
+            0.8804267048835754
+        ],
+        "Italian-English": [
+            0.28467798233032227
+        ],
+        "English-Spanish": [
+            0.2592109143733978
+        ],
+        "Spanish-English": [
+            0.2914196848869324
+        ],
+        "English-Polish": [
+            0.25944462418556213
+        ],
+        "Polish-English": [
+            0.28289270401000977
+        ],
+        "English-Croatian": [
+            0.24273911118507385
+        ],
+        "Croatian-English": [
+            0.2899002432823181
+        ],
+        "English-Russian": [
+            0.19977320730686188
+        ],
+        "Russian-English": [
+            0.8254815340042114
+        ],
+        "English-Hungarian": [
+            0.8511928915977478
+        ],
+        "Hungarian-English": [
+            0.27908244729042053
+        ]
+    },
+    "1178": {
+        "English-Swahili": [
+            0.310886025428772
+        ],
+        "Swahili-English": [
+            0.2815547287464142
+        ],
+        "English-Yoruba": [
+            0.4291519224643707
+        ],
+        "Yoruba-English": [
+            0.3720546066761017
+        ],
+        "English-Hindi": [
+            0.6610280871391296
+        ],
+        "Hindi-English": [
+            0.6911364197731018
+        ],
+        "English-Urdu": [
+            0.2944778501987457
+        ],
+        "Urdu-English": [
+            0.7683860659599304
+        ],
+        "English-German": [
+            0.8569994568824768
+        ],
+        "German-English": [
+            0.2733406722545624
+        ],
+        "English-Italian": [
+            0.3047392964363098
+        ],
+        "Italian-English": [
+            0.7896800637245178
+        ],
+        "English-Spanish": [
+            0.34742817282676697
+        ],
+        "Spanish-English": [
+            0.38485032320022583
+        ],
+        "English-Polish": [
+            0.5010666251182556
+        ],
+        "Polish-English": [
+            0.35691311955451965
+        ],
+        "English-Croatian": [
+            0.5527109503746033
+        ],
+        "Croatian-English": [
+            0.36442020535469055
+        ],
+        "English-Russian": [
+            0.9113630652427673
+        ],
+        "Russian-English": [
+            0.8532814383506775
+        ],
+        "English-Hungarian": [
+            0.5689999461174011
+        ],
+        "Hungarian-English": [
+            0.4011255204677582
+        ]
+    },
+    "373": {
+        "English-Swahili": [
+            0.3065371811389923
+        ],
+        "Swahili-English": [
+            0.24422499537467957
+        ],
+        "English-Yoruba": [
+            0.4722529649734497
+        ],
+        "Yoruba-English": [
+            0.24053731560707092
+        ],
+        "English-Hindi": [
+            0.29292020201683044
+        ],
+        "Hindi-English": [
+            0.1871756911277771
+        ],
+        "English-Urdu": [
+            0.25673139095306396
+        ],
+        "Urdu-English": [
+            0.24647441506385803
+        ],
+        "English-German": [
+            0.2038159817457199
+        ],
+        "German-English": [
+            0.24282023310661316
+        ],
+        "English-Italian": [
+            0.22641925513744354
+        ],
+        "Italian-English": [
+            0.2493380606174469
+        ],
+        "English-Spanish": [
+            0.24581515789031982
+        ],
+        "Spanish-English": [
+            0.8843421339988708
+        ],
+        "English-Polish": [
+            0.4021804630756378
+        ],
+        "Polish-English": [
+            0.22899286448955536
+        ],
+        "English-Croatian": [
+            0.2250003069639206
+        ],
+        "Croatian-English": [
+            0.2404160350561142
+        ],
+        "English-Russian": [
+            0.2056799829006195
+        ],
+        "Russian-English": [
+            0.7847810387611389
+        ],
+        "English-Hungarian": [
+            0.25634464621543884
+        ],
+        "Hungarian-English": [
+            0.23695215582847595
+        ]
+    },
+    "772": {
+        "English-Swahili": [
+            0.29676762223243713
+        ],
+        "Swahili-English": [
+            0.2609563171863556
+        ],
+        "English-Yoruba": [
+            0.2520199716091156
+        ],
+        "Yoruba-English": [
+            0.2810562252998352
+        ],
+        "English-Hindi": [
+            0.31535279750823975
+        ],
+        "Hindi-English": [
+            0.3642820417881012
+        ],
+        "English-Urdu": [
+            0.2594035565853119
+        ],
+        "Urdu-English": [
+            0.49138781428337097
+        ],
+        "English-German": [
+            0.21361984312534332
+        ],
+        "German-English": [
+            0.2518194615840912
+        ],
+        "English-Italian": [
+            0.2521245777606964
+        ],
+        "Italian-English": [
+            0.254690021276474
+        ],
+        "English-Spanish": [
+            0.2677260637283325
+        ],
+        "Spanish-English": [
+            0.2486710250377655
+        ],
+        "English-Polish": [
+            0.26218393445014954
+        ],
+        "Polish-English": [
+            0.25267094373703003
+        ],
+        "English-Croatian": [
+            0.22443628311157227
+        ],
+        "Croatian-English": [
+            0.26159027218818665
+        ],
+        "English-Russian": [
+            0.6681811213493347
+        ],
+        "Russian-English": [
+            0.26932862401008606
+        ],
+        "English-Hungarian": [
+            0.2629983723163605
+        ],
+        "Hungarian-English": [
+            0.2575981616973877
+        ]
+    },
+    "131": {
+        "English-Swahili": [
+            0.4702666401863098
+        ],
+        "Swahili-English": [
+            0.5030734539031982
+        ],
+        "English-Yoruba": [
+            0.30488356947898865
+        ],
+        "Yoruba-English": [
+            0.36892831325531006
+        ],
+        "English-Hindi": [
+            0.39942553639411926
+        ],
+        "Hindi-English": [
+            0.6084450483322144
+        ],
+        "English-Urdu": [
+            0.32562264800071716
+        ],
+        "Urdu-English": [
+            0.611928403377533
+        ],
+        "English-German": [
+            0.5379714965820312
+        ],
+        "German-English": [
+            0.5659964680671692
+        ],
+        "English-Italian": [
+            0.7062991261482239
+        ],
+        "Italian-English": [
+            0.6344954371452332
+        ],
+        "English-Spanish": [
+            0.6730667352676392
+        ],
+        "Spanish-English": [
+            0.738335907459259
+        ],
+        "English-Polish": [
+            0.7300415635108948
+        ],
+        "Polish-English": [
+            0.789357602596283
+        ],
+        "English-Croatian": [
+            0.7515504956245422
+        ],
+        "Croatian-English": [
+            0.8207532167434692
+        ],
+        "English-Russian": [
+            0.7390664219856262
+        ],
+        "Russian-English": [
+            0.8197709918022156
+        ],
+        "English-Hungarian": [
+            0.7283068299293518
+        ],
+        "Hungarian-English": [
+            0.7613266110420227
+        ]
+    },
+    "101": {
+        "English-Swahili": [
+            0.2752099335193634
+        ],
+        "Swahili-English": [
+            0.2857344448566437
+        ],
+        "English-Yoruba": [
+            0.3346307575702667
+        ],
+        "Yoruba-English": [
+            0.28663626313209534
+        ],
+        "English-Hindi": [
+            0.33527955412864685
+        ],
+        "Hindi-English": [
+            0.3094819188117981
+        ],
+        "English-Urdu": [
+            0.2864270508289337
+        ],
+        "Urdu-English": [
+            0.3033590018749237
+        ],
+        "English-German": [
+            0.611827552318573
+        ],
+        "German-English": [
+            0.2722970247268677
+        ],
+        "English-Italian": [
+            0.1945180892944336
+        ],
+        "Italian-English": [
+            0.2654873728752136
+        ],
+        "English-Spanish": [
+            0.6196536421775818
+        ],
+        "Spanish-English": [
+            0.7797714471817017
+        ],
+        "English-Polish": [
+            0.23554423451423645
+        ],
+        "Polish-English": [
+            0.32485702633857727
+        ],
+        "English-Croatian": [
+            0.28747597336769104
+        ],
+        "Croatian-English": [
+            0.29752010107040405
+        ],
+        "English-Russian": [
+            0.587042510509491
+        ],
+        "Russian-English": [
+            0.7581536173820496
+        ],
+        "English-Hungarian": [
+            0.268965482711792
+        ],
+        "Hungarian-English": [
+            0.25482627749443054
+        ]
+    },
+    "1187": {
+        "English-Swahili": [
+            0.3995596766471863
+        ],
+        "Swahili-English": [
+            0.2767680585384369
+        ],
+        "English-Yoruba": [
+            0.2762148380279541
+        ],
+        "Yoruba-English": [
+            0.2724571228027344
+        ],
+        "English-Hindi": [
+            0.29180750250816345
+        ],
+        "Hindi-English": [
+            0.2909070551395416
+        ],
+        "English-Urdu": [
+            0.3410690426826477
+        ],
+        "Urdu-English": [
+            0.29214543104171753
+        ],
+        "English-German": [
+            0.2615770101547241
+        ],
+        "German-English": [
+            0.2807900607585907
+        ],
+        "English-Italian": [
+            0.3174492418766022
+        ],
+        "Italian-English": [
+            0.2815200686454773
+        ],
+        "English-Spanish": [
+            0.8545047640800476
+        ],
+        "Spanish-English": [
+            0.28629085421562195
+        ],
+        "English-Polish": [
+            0.2630174458026886
+        ],
+        "Polish-English": [
+            0.20160575211048126
+        ],
+        "English-Croatian": [
+            0.32124021649360657
+        ],
+        "Croatian-English": [
+            0.2898899018764496
+        ],
+        "English-Russian": [
+            0.27967527508735657
+        ],
+        "Russian-English": [
+            0.28589341044425964
+        ],
+        "English-Hungarian": [
+            0.3645477592945099
+        ],
+        "Hungarian-English": [
+            0.8520243763923645
+        ]
+    },
+    "126": {
+        "English-Swahili": [
+            0.2719692587852478
+        ],
+        "Swahili-English": [
+            0.2897201478481293
+        ],
+        "English-Yoruba": [
+            0.5066303610801697
+        ],
+        "Yoruba-English": [
+            0.27532222867012024
+        ],
+        "English-Hindi": [
+            0.3262465298175812
+        ],
+        "Hindi-English": [
+            0.2579210698604584
+        ],
+        "English-Urdu": [
+            0.38066384196281433
+        ],
+        "Urdu-English": [
+            0.2896778881549835
+        ],
+        "English-German": [
+            0.1880354881286621
+        ],
+        "German-English": [
+            0.5200519561767578
+        ],
+        "English-Italian": [
+            0.2765471339225769
+        ],
+        "Italian-English": [
+            0.7151249647140503
+        ],
+        "English-Spanish": [
+            0.25989994406700134
+        ],
+        "Spanish-English": [
+            0.8111005425453186
+        ],
+        "English-Polish": [
+            0.5077952146530151
+        ],
+        "Polish-English": [
+            0.8134427070617676
+        ],
+        "English-Croatian": [
+            0.4332408308982849
+        ],
+        "Croatian-English": [
+            0.28200894594192505
+        ],
+        "English-Russian": [
+            0.19321739673614502
+        ],
+        "Russian-English": [
+            0.28174757957458496
+        ],
+        "English-Hungarian": [
+            0.33949339389801025
+        ],
+        "Hungarian-English": [
+            0.27003154158592224
+        ]
+    },
+    "383": {
+        "English-Swahili": [
+            0.32857972383499146
+        ],
+        "Swahili-English": [
+            0.2959195077419281
+        ],
+        "English-Yoruba": [
+            0.4079144299030304
+        ],
+        "Yoruba-English": [
+            0.299623966217041
+        ],
+        "English-Hindi": [
+            0.2806023359298706
+        ],
+        "Hindi-English": [
+            0.34367409348487854
+        ],
+        "English-Urdu": [
+            0.26076164841651917
+        ],
+        "Urdu-English": [
+            0.4195951819419861
+        ],
+        "English-German": [
+            0.8797438740730286
+        ],
+        "German-English": [
+            0.2937203049659729
+        ],
+        "English-Italian": [
+            0.917102038860321
+        ],
+        "Italian-English": [
+            0.29312658309936523
+        ],
+        "English-Spanish": [
+            0.30008867383003235
+        ],
+        "Spanish-English": [
+            0.8859091401100159
+        ],
+        "English-Polish": [
+            0.30232253670692444
+        ],
+        "Polish-English": [
+            0.641348123550415
+        ],
+        "English-Croatian": [
+            0.7218382358551025
+        ],
+        "Croatian-English": [
+            0.29679203033447266
+        ],
+        "English-Russian": [
+            0.24835649132728577
+        ],
+        "Russian-English": [
+            0.2962651252746582
+        ],
+        "English-Hungarian": [
+            0.7848815321922302
+        ],
+        "Hungarian-English": [
+            0.28723832964897156
+        ]
+    },
+    "1930": {
+        "English-Swahili": [
+            0.3046106696128845
+        ],
+        "Swahili-English": [
+            0.305610328912735
+        ],
+        "English-Yoruba": [
+            0.44439783692359924
+        ],
+        "Yoruba-English": [
+            0.30299076437950134
+        ],
+        "English-Hindi": [
+            0.31331872940063477
+        ],
+        "Hindi-English": [
+            0.7614414095878601
+        ],
+        "English-Urdu": [
+            0.4425048828125
+        ],
+        "Urdu-English": [
+            0.31749144196510315
+        ],
+        "English-German": [
+            0.2601500451564789
+        ],
+        "German-English": [
+            0.30767878890037537
+        ],
+        "English-Italian": [
+            0.7132077217102051
+        ],
+        "Italian-English": [
+            0.29876890778541565
+        ],
+        "English-Spanish": [
+            0.27057263255119324
+        ],
+        "Spanish-English": [
+            0.30277785658836365
+        ],
+        "English-Polish": [
+            0.27659669518470764
+        ],
+        "Polish-English": [
+            0.30628541111946106
+        ],
+        "English-Croatian": [
+            0.5615196228027344
+        ],
+        "Croatian-English": [
+            0.3032248914241791
+        ],
+        "English-Russian": [
+            0.22501219809055328
+        ],
+        "Russian-English": [
+            0.3044094741344452
+        ],
+        "English-Hungarian": [
+            0.4661133587360382
+        ],
+        "Hungarian-English": [
+            0.3021933436393738
+        ]
+    },
+    "1719": {
+        "English-Swahili": [
+            0.24823704361915588
+        ],
+        "Swahili-English": [
+            0.24592462182044983
+        ],
+        "English-Yoruba": [
+            0.4658704698085785
+        ],
+        "Yoruba-English": [
+            0.23836472630500793
+        ],
+        "English-Hindi": [
+            0.36430054903030396
+        ],
+        "Hindi-English": [
+            0.36937829852104187
+        ],
+        "English-Urdu": [
+            0.32273152470588684
+        ],
+        "Urdu-English": [
+            0.19722381234169006
+        ],
+        "English-German": [
+            0.22874964773654938
+        ],
+        "German-English": [
+            0.25797411799430847
+        ],
+        "English-Italian": [
+            0.2287130355834961
+        ],
+        "Italian-English": [
+            0.23619867861270905
+        ],
+        "English-Spanish": [
+            0.23397746682167053
+        ],
+        "Spanish-English": [
+            0.2398160845041275
+        ],
+        "English-Polish": [
+            0.22696557641029358
+        ],
+        "Polish-English": [
+            0.24274371564388275
+        ],
+        "English-Croatian": [
+            0.20601898431777954
+        ],
+        "Croatian-English": [
+            0.24309928715229034
+        ],
+        "English-Russian": [
+            0.17060962319374084
+        ],
+        "Russian-English": [
+            0.2458806335926056
+        ],
+        "English-Hungarian": [
+            0.6188742518424988
+        ],
+        "Hungarian-English": [
+            0.2430693656206131
+        ]
+    },
+    "340": {
+        "English-Swahili": [
+            0.3737885057926178
+        ],
+        "Swahili-English": [
+            0.38002943992614746
+        ],
+        "English-Yoruba": [
+            0.5853031277656555
+        ],
+        "Yoruba-English": [
+            0.3689761459827423
+        ],
+        "English-Hindi": [
+            0.5072622895240784
+        ],
+        "Hindi-English": [
+            0.746465265750885
+        ],
+        "English-Urdu": [
+            0.34205976128578186
+        ],
+        "Urdu-English": [
+            0.37040427327156067
+        ],
+        "English-German": [
+            0.3510408103466034
+        ],
+        "German-English": [
+            0.3779699206352234
+        ],
+        "English-Italian": [
+            0.4010586738586426
+        ],
+        "Italian-English": [
+            0.8698025345802307
+        ],
+        "English-Spanish": [
+            0.9805176854133606
+        ],
+        "Spanish-English": [
+            0.3727427124977112
+        ],
+        "English-Polish": [
+            0.8653017282485962
+        ],
+        "Polish-English": [
+            0.295899361371994
+        ],
+        "English-Croatian": [
+            0.6840233206748962
+        ],
+        "Croatian-English": [
+            0.36575445532798767
+        ],
+        "English-Russian": [
+            0.3503313362598419
+        ],
+        "Russian-English": [
+            0.37395063042640686
+        ],
+        "English-Hungarian": [
+            0.8393978476524353
+        ],
+        "Hungarian-English": [
+            0.36023107171058655
+        ]
+    },
+    "607": {
+        "English-Swahili": [
+            0.4068193733692169
+        ],
+        "Swahili-English": [
+            0.3210556209087372
+        ],
+        "English-Yoruba": [
+            0.6214417815208435
+        ],
+        "Yoruba-English": [
+            0.273046612739563
+        ],
+        "English-Hindi": [
+            0.424053817987442
+        ],
+        "Hindi-English": [
+            0.37948939204216003
+        ],
+        "English-Urdu": [
+            0.32831066846847534
+        ],
+        "Urdu-English": [
+            0.2809208929538727
+        ],
+        "English-German": [
+            0.22870057821273804
+        ],
+        "German-English": [
+            0.256961852312088
+        ],
+        "English-Italian": [
+            0.37946027517318726
+        ],
+        "Italian-English": [
+            0.26695647835731506
+        ],
+        "English-Spanish": [
+            0.8318821787834167
+        ],
+        "Spanish-English": [
+            0.2668021321296692
+        ],
+        "English-Polish": [
+            0.2883787453174591
+        ],
+        "Polish-English": [
+            0.2533479332923889
+        ],
+        "English-Croatian": [
+            0.25385749340057373
+        ],
+        "Croatian-English": [
+            0.27763813734054565
+        ],
+        "English-Russian": [
+            0.19404113292694092
+        ],
+        "Russian-English": [
+            0.2842162549495697
+        ],
+        "English-Hungarian": [
+            0.7172792553901672
+        ],
+        "Hungarian-English": [
+            0.26240310072898865
+        ]
+    },
+    "564": {
+        "English-Swahili": [
+            0.31987932324409485
+        ],
+        "Swahili-English": [
+            0.3514130413532257
+        ],
+        "English-Yoruba": [
+            0.5334669947624207
+        ],
+        "Yoruba-English": [
+            0.33290401101112366
+        ],
+        "English-Hindi": [
+            0.3594103157520294
+        ],
+        "Hindi-English": [
+            0.38172978162765503
+        ],
+        "English-Urdu": [
+            0.3367292284965515
+        ],
+        "Urdu-English": [
+            0.3225480020046234
+        ],
+        "English-German": [
+            0.2632802426815033
+        ],
+        "German-English": [
+            0.31203800439834595
+        ],
+        "English-Italian": [
+            0.26466646790504456
+        ],
+        "Italian-English": [
+            0.7824811935424805
+        ],
+        "English-Spanish": [
+            0.19984468817710876
+        ],
+        "Spanish-English": [
+            0.7977728247642517
+        ],
+        "English-Polish": [
+            0.270750492811203
+        ],
+        "Polish-English": [
+            0.31703341007232666
+        ],
+        "English-Croatian": [
+            0.38029173016548157
+        ],
+        "Croatian-English": [
+            0.3131413757801056
+        ],
+        "English-Russian": [
+            0.2266278862953186
+        ],
+        "Russian-English": [
+            0.3233942985534668
+        ],
+        "English-Hungarian": [
+            0.2573901116847992
+        ],
+        "Hungarian-English": [
+            0.7081152200698853
+        ]
+    },
+    "1821": {
+        "English-Swahili": [
+            0.2852536141872406
+        ],
+        "Swahili-English": [
+            0.25801151990890503
+        ],
+        "English-Yoruba": [
+            0.5455012321472168
+        ],
+        "Yoruba-English": [
+            0.2529726028442383
+        ],
+        "English-Hindi": [
+            0.3149298131465912
+        ],
+        "Hindi-English": [
+            0.2631881535053253
+        ],
+        "English-Urdu": [
+            0.25449010729789734
+        ],
+        "Urdu-English": [
+            0.2556522488594055
+        ],
+        "English-German": [
+            0.1808919459581375
+        ],
+        "German-English": [
+            0.23260697722434998
+        ],
+        "English-Italian": [
+            0.9227964282035828
+        ],
+        "Italian-English": [
+            0.23163025081157684
+        ],
+        "English-Spanish": [
+            0.8988161087036133
+        ],
+        "Spanish-English": [
+            0.22998109459877014
+        ],
+        "English-Polish": [
+            0.44083869457244873
+        ],
+        "Polish-English": [
+            0.2245800495147705
+        ],
+        "English-Croatian": [
+            0.3295842707157135
+        ],
+        "Croatian-English": [
+            0.24460354447364807
+        ],
+        "English-Russian": [
+            0.1513645350933075
+        ],
+        "Russian-English": [
+            0.24092775583267212
+        ],
+        "English-Hungarian": [
+            0.8218044638633728
+        ],
+        "Hungarian-English": [
+            0.23486606776714325
+        ]
+    },
+    "158": {
+        "English-Swahili": [
+            0.4584859311580658
+        ],
+        "Swahili-English": [
+            0.4261627495288849
+        ],
+        "English-Yoruba": [
+            0.6487254500389099
+        ],
+        "Yoruba-English": [
+            0.3632620573043823
+        ],
+        "English-Hindi": [
+            0.29742249846458435
+        ],
+        "Hindi-English": [
+            0.5921075344085693
+        ],
+        "English-Urdu": [
+            0.43178674578666687
+        ],
+        "Urdu-English": [
+            0.39022716879844666
+        ],
+        "English-German": [
+            0.3616280257701874
+        ],
+        "German-English": [
+            0.8096188902854919
+        ],
+        "English-Italian": [
+            0.8625047206878662
+        ],
+        "Italian-English": [
+            0.7254429459571838
+        ],
+        "English-Spanish": [
+            0.8345485329627991
+        ],
+        "Spanish-English": [
+            0.7365307211875916
+        ],
+        "English-Polish": [
+            0.8144164681434631
+        ],
+        "Polish-English": [
+            0.7812774777412415
+        ],
+        "English-Croatian": [
+            0.8748127222061157
+        ],
+        "Croatian-English": [
+            0.45284953713417053
+        ],
+        "English-Russian": [
+            0.7502533793449402
+        ],
+        "Russian-English": [
+            0.8917825818061829
+        ],
+        "English-Hungarian": [
+            0.872547447681427
+        ],
+        "Hungarian-English": [
+            0.8278622627258301
+        ]
+    },
+    "1070": {
+        "English-Swahili": [
+            0.33055898547172546
+        ],
+        "Swahili-English": [
+            0.6554645299911499
+        ],
+        "English-Yoruba": [
+            0.5083858370780945
+        ],
+        "Yoruba-English": [
+            0.23888835310935974
+        ],
+        "English-Hindi": [
+            0.29258957505226135
+        ],
+        "Hindi-English": [
+            0.28755661845207214
+        ],
+        "English-Urdu": [
+            0.34880805015563965
+        ],
+        "Urdu-English": [
+            0.2854002118110657
+        ],
+        "English-German": [
+            0.25302407145500183
+        ],
+        "German-English": [
+            0.27670764923095703
+        ],
+        "English-Italian": [
+            0.2708154022693634
+        ],
+        "Italian-English": [
+            0.2056756317615509
+        ],
+        "English-Spanish": [
+            0.5338541269302368
+        ],
+        "Spanish-English": [
+            0.2831968069076538
+        ],
+        "English-Polish": [
+            0.2549354135990143
+        ],
+        "Polish-English": [
+            0.2881576716899872
+        ],
+        "English-Croatian": [
+            0.4159701466560364
+        ],
+        "Croatian-English": [
+            0.2848750054836273
+        ],
+        "English-Russian": [
+            0.31784889101982117
+        ],
+        "Russian-English": [
+            0.28523898124694824
+        ],
+        "English-Hungarian": [
+            0.31598639488220215
+        ],
+        "Hungarian-English": [
+            0.2697325646877289
+        ]
+    },
+    "1277": {
+        "English-Swahili": [
+            0.33469119668006897
+        ],
+        "Swahili-English": [
+            0.31350985169410706
+        ],
+        "English-Yoruba": [
+            0.4918433129787445
+        ],
+        "Yoruba-English": [
+            0.2646670937538147
+        ],
+        "English-Hindi": [
+            0.39563605189323425
+        ],
+        "Hindi-English": [
+            0.4472692310810089
+        ],
+        "English-Urdu": [
+            0.6576929688453674
+        ],
+        "Urdu-English": [
+            0.46475639939308167
+        ],
+        "English-German": [
+            0.275468111038208
+        ],
+        "German-English": [
+            0.3076571524143219
+        ],
+        "English-Italian": [
+            0.3620302975177765
+        ],
+        "Italian-English": [
+            0.826572597026825
+        ],
+        "English-Spanish": [
+            0.9064332246780396
+        ],
+        "Spanish-English": [
+            0.30578330159187317
+        ],
+        "English-Polish": [
+            0.9475520253181458
+        ],
+        "Polish-English": [
+            0.3236931562423706
+        ],
+        "English-Croatian": [
+            0.8265594244003296
+        ],
+        "Croatian-English": [
+            0.3117220997810364
+        ],
+        "English-Russian": [
+            0.2493896186351776
+        ],
+        "Russian-English": [
+            0.3249964416027069
+        ],
+        "English-Hungarian": [
+            0.31248047947883606
+        ],
+        "Hungarian-English": [
+            0.8593143820762634
+        ]
+    },
+    "212": {
+        "English-Swahili": [
+            0.3818263113498688
+        ],
+        "Swahili-English": [
+            0.42845892906188965
+        ],
+        "English-Yoruba": [
+            0.5219078660011292
+        ],
+        "Yoruba-English": [
+            0.3728519678115845
+        ],
+        "English-Hindi": [
+            0.6286203861236572
+        ],
+        "Hindi-English": [
+            0.6751883625984192
+        ],
+        "English-Urdu": [
+            0.8997521996498108
+        ],
+        "Urdu-English": [
+            0.4316488802433014
+        ],
+        "English-German": [
+            0.8641657829284668
+        ],
+        "German-English": [
+            0.4119345545768738
+        ],
+        "English-Italian": [
+            0.43200188875198364
+        ],
+        "Italian-English": [
+            0.4133989214897156
+        ],
+        "English-Spanish": [
+            0.9534194469451904
+        ],
+        "Spanish-English": [
+            0.43445926904678345
+        ],
+        "English-Polish": [
+            0.3721584975719452
+        ],
+        "Polish-English": [
+            0.281809538602829
+        ],
+        "English-Croatian": [
+            0.36306554079055786
+        ],
+        "Croatian-English": [
+            0.448591411113739
+        ],
+        "English-Russian": [
+            0.9431108832359314
+        ],
+        "Russian-English": [
+            0.41604849696159363
+        ],
+        "English-Hungarian": [
+            0.3809431493282318
+        ],
+        "Hungarian-English": [
+            0.9306356310844421
+        ]
+    },
+    "1753": {
+        "English-Swahili": [
+            0.2706840932369232
+        ],
+        "Swahili-English": [
+            0.2163565456867218
+        ],
+        "English-Yoruba": [
+            0.4197593629360199
+        ],
+        "Yoruba-English": [
+            0.28287848830223083
+        ],
+        "English-Hindi": [
+            0.31226328015327454
+        ],
+        "Hindi-English": [
+            0.34823352098464966
+        ],
+        "English-Urdu": [
+            0.3500804901123047
+        ],
+        "Urdu-English": [
+            0.47184136509895325
+        ],
+        "English-German": [
+            0.2566176950931549
+        ],
+        "German-English": [
+            0.2584201991558075
+        ],
+        "English-Italian": [
+            0.5579480528831482
+        ],
+        "Italian-English": [
+            0.7544689774513245
+        ],
+        "English-Spanish": [
+            0.28054991364479065
+        ],
+        "Spanish-English": [
+            0.7124106287956238
+        ],
+        "English-Polish": [
+            0.26800522208213806
+        ],
+        "Polish-English": [
+            0.2585301697254181
+        ],
+        "English-Croatian": [
+            0.26967287063598633
+        ],
+        "Croatian-English": [
+            0.2699177861213684
+        ],
+        "English-Russian": [
+            0.26374003291130066
+        ],
+        "Russian-English": [
+            0.2834934890270233
+        ],
+        "English-Hungarian": [
+            0.46111199259757996
+        ],
+        "Hungarian-English": [
+            0.25369369983673096
+        ]
+    },
+    "1667": {
+        "English-Swahili": [
+            0.35418829321861267
+        ],
+        "Swahili-English": [
+            0.3028380870819092
+        ],
+        "English-Yoruba": [
+            0.37592336535453796
+        ],
+        "Yoruba-English": [
+            0.3138938248157501
+        ],
+        "English-Hindi": [
+            0.40433546900749207
+        ],
+        "Hindi-English": [
+            0.39866960048675537
+        ],
+        "English-Urdu": [
+            0.3973570466041565
+        ],
+        "Urdu-English": [
+            0.3245637118816376
+        ],
+        "English-German": [
+            0.21882364153862
+        ],
+        "German-English": [
+            0.32552775740623474
+        ],
+        "English-Italian": [
+            0.2689181864261627
+        ],
+        "Italian-English": [
+            0.29125407338142395
+        ],
+        "English-Spanish": [
+            0.8120694756507874
+        ],
+        "Spanish-English": [
+            0.2998180687427521
+        ],
+        "English-Polish": [
+            0.8771247863769531
+        ],
+        "Polish-English": [
+            0.29860636591911316
+        ],
+        "English-Croatian": [
+            0.8507927060127258
+        ],
+        "Croatian-English": [
+            0.2961049973964691
+        ],
+        "English-Russian": [
+            0.25754839181900024
+        ],
+        "Russian-English": [
+            0.3019450008869171
+        ],
+        "English-Hungarian": [
+            0.2510444223880768
+        ],
+        "Hungarian-English": [
+            0.7831531167030334
+        ]
+    },
+    "1197": {
+        "English-Swahili": [
+            0.2966303825378418
+        ],
+        "Swahili-English": [
+            0.27211931347846985
+        ],
+        "English-Yoruba": [
+            0.37565526366233826
+        ],
+        "Yoruba-English": [
+            0.263031542301178
+        ],
+        "English-Hindi": [
+            0.3366072475910187
+        ],
+        "Hindi-English": [
+            0.26724088191986084
+        ],
+        "English-Urdu": [
+            0.25763383507728577
+        ],
+        "Urdu-English": [
+            0.2882838547229767
+        ],
+        "English-German": [
+            0.23860862851142883
+        ],
+        "German-English": [
+            0.2740305960178375
+        ],
+        "English-Italian": [
+            0.6521567702293396
+        ],
+        "Italian-English": [
+            0.27247485518455505
+        ],
+        "English-Spanish": [
+            0.2759230434894562
+        ],
+        "Spanish-English": [
+            0.27345213294029236
+        ],
+        "English-Polish": [
+            0.26491081714630127
+        ],
+        "Polish-English": [
+            0.27428603172302246
+        ],
+        "English-Croatian": [
+            0.2322314977645874
+        ],
+        "Croatian-English": [
+            0.8180449604988098
+        ],
+        "English-Russian": [
+            0.174407958984375
+        ],
+        "Russian-English": [
+            0.263398677110672
+        ],
+        "English-Hungarian": [
+            0.5362271070480347
+        ],
+        "Hungarian-English": [
+            0.2700769603252411
+        ]
+    },
+    "1340": {
+        "English-Swahili": [
+            0.31978753209114075
+        ],
+        "Swahili-English": [
+            0.32637354731559753
+        ],
+        "English-Yoruba": [
+            0.48636189103126526
+        ],
+        "Yoruba-English": [
+            0.3030681312084198
+        ],
+        "English-Hindi": [
+            0.4134771525859833
+        ],
+        "Hindi-English": [
+            0.34242770075798035
+        ],
+        "English-Urdu": [
+            0.1862969696521759
+        ],
+        "Urdu-English": [
+            0.317415326833725
+        ],
+        "English-German": [
+            0.5890982151031494
+        ],
+        "German-English": [
+            0.3047122061252594
+        ],
+        "English-Italian": [
+            0.3737387955188751
+        ],
+        "Italian-English": [
+            0.3147530257701874
+        ],
+        "English-Spanish": [
+            0.3970772922039032
+        ],
+        "Spanish-English": [
+            0.33562296628952026
+        ],
+        "English-Polish": [
+            0.583909273147583
+        ],
+        "Polish-English": [
+            0.30301323533058167
+        ],
+        "English-Croatian": [
+            0.2815319895744324
+        ],
+        "Croatian-English": [
+            0.8168202042579651
+        ],
+        "English-Russian": [
+            0.19030892848968506
+        ],
+        "Russian-English": [
+            0.32131871581077576
+        ],
+        "English-Hungarian": [
+            0.6056771874427795
+        ],
+        "Hungarian-English": [
+            0.29284560680389404
+        ]
+    },
+    "1911": {
+        "English-Swahili": [
+            0.34328171610832214
+        ],
+        "Swahili-English": [
+            0.2706141471862793
+        ],
+        "English-Yoruba": [
+            0.46347835659980774
+        ],
+        "Yoruba-English": [
+            0.26559945940971375
+        ],
+        "English-Hindi": [
+            0.2417602390050888
+        ],
+        "Hindi-English": [
+            0.3601454794406891
+        ],
+        "English-Urdu": [
+            0.42423030734062195
+        ],
+        "Urdu-English": [
+            0.27380135655403137
+        ],
+        "English-German": [
+            0.22693420946598053
+        ],
+        "German-English": [
+            0.2586148679256439
+        ],
+        "English-Italian": [
+            0.8473942279815674
+        ],
+        "Italian-English": [
+            0.2669757008552551
+        ],
+        "English-Spanish": [
+            0.722768247127533
+        ],
+        "Spanish-English": [
+            0.9021976590156555
+        ],
+        "English-Polish": [
+            0.5803712010383606
+        ],
+        "Polish-English": [
+            0.25616753101348877
+        ],
+        "English-Croatian": [
+            0.4827016592025757
+        ],
+        "Croatian-English": [
+            0.8962883949279785
+        ],
+        "English-Russian": [
+            0.8834731578826904
+        ],
+        "Russian-English": [
+            0.906952440738678
+        ],
+        "English-Hungarian": [
+            0.518825113773346
+        ],
+        "Hungarian-English": [
+            0.8532171845436096
+        ]
+    },
+    "1331": {
+        "English-Swahili": [
+            0.3919231593608856
+        ],
+        "Swahili-English": [
+            0.39037713408470154
+        ],
+        "English-Yoruba": [
+            0.6826533079147339
+        ],
+        "Yoruba-English": [
+            0.39588990807533264
+        ],
+        "English-Hindi": [
+            0.43945634365081787
+        ],
+        "Hindi-English": [
+            0.38958120346069336
+        ],
+        "English-Urdu": [
+            0.27523961663246155
+        ],
+        "Urdu-English": [
+            0.7415104508399963
+        ],
+        "English-German": [
+            0.4999556243419647
+        ],
+        "German-English": [
+            0.8402026891708374
+        ],
+        "English-Italian": [
+            0.37684524059295654
+        ],
+        "Italian-English": [
+            0.6421960592269897
+        ],
+        "English-Spanish": [
+            0.8896791338920593
+        ],
+        "Spanish-English": [
+            0.6704273223876953
+        ],
+        "English-Polish": [
+            0.7222381234169006
+        ],
+        "Polish-English": [
+            0.2776440680027008
+        ],
+        "English-Croatian": [
+            0.3098796010017395
+        ],
+        "Croatian-English": [
+            0.3281766474246979
+        ],
+        "English-Russian": [
+            0.8695164322853088
+        ],
+        "Russian-English": [
+            0.2779305577278137
+        ],
+        "English-Hungarian": [
+            0.8099692463874817
+        ],
+        "Hungarian-English": [
+            0.7073987722396851
+        ]
+    },
+    "1392": {
+        "English-Swahili": [
+            0.4422908127307892
+        ],
+        "Swahili-English": [
+            0.33139851689338684
+        ],
+        "English-Yoruba": [
+            0.5835629105567932
+        ],
+        "Yoruba-English": [
+            0.46338537335395813
+        ],
+        "English-Hindi": [
+            0.4649026691913605
+        ],
+        "Hindi-English": [
+            0.32964709401130676
+        ],
+        "English-Urdu": [
+            0.3362066447734833
+        ],
+        "Urdu-English": [
+            0.3356594145298004
+        ],
+        "English-German": [
+            0.9087727665901184
+        ],
+        "German-English": [
+            0.9150663018226624
+        ],
+        "English-Italian": [
+            0.9657632112503052
+        ],
+        "Italian-English": [
+            0.3257586658000946
+        ],
+        "English-Spanish": [
+            0.6295499205589294
+        ],
+        "Spanish-English": [
+            0.32733121514320374
+        ],
+        "English-Polish": [
+            0.9207618832588196
+        ],
+        "Polish-English": [
+            0.789269745349884
+        ],
+        "English-Croatian": [
+            0.9674746990203857
+        ],
+        "Croatian-English": [
+            0.32098427414894104
+        ],
+        "English-Russian": [
+            0.47403910756111145
+        ],
+        "Russian-English": [
+            0.32536301016807556
+        ],
+        "English-Hungarian": [
+            0.8470749258995056
+        ],
+        "Hungarian-English": [
+            0.9144895076751709
+        ]
+    },
+    "193": {
+        "English-Swahili": [
+            0.289731502532959
+        ],
+        "Swahili-English": [
+            0.7344371676445007
+        ],
+        "English-Yoruba": [
+            0.32667669653892517
+        ],
+        "Yoruba-English": [
+            0.655890703201294
+        ],
+        "English-Hindi": [
+            0.25605157017707825
+        ],
+        "Hindi-English": [
+            0.4327339231967926
+        ],
+        "English-Urdu": [
+            0.29971006512641907
+        ],
+        "Urdu-English": [
+            0.2735448479652405
+        ],
+        "English-German": [
+            0.21443414688110352
+        ],
+        "German-English": [
+            0.7269862294197083
+        ],
+        "English-Italian": [
+            0.25735393166542053
+        ],
+        "Italian-English": [
+            0.8818959593772888
+        ],
+        "English-Spanish": [
+            0.2338247448205948
+        ],
+        "Spanish-English": [
+            0.2690942585468292
+        ],
+        "English-Polish": [
+            0.22443018853664398
+        ],
+        "Polish-English": [
+            0.272297203540802
+        ],
+        "English-Croatian": [
+            0.4176107943058014
+        ],
+        "Croatian-English": [
+            0.5891917943954468
+        ],
+        "English-Russian": [
+            0.8784093260765076
+        ],
+        "Russian-English": [
+            0.8296071887016296
+        ],
+        "English-Hungarian": [
+            0.6650061011314392
+        ],
+        "Hungarian-English": [
+            0.8617718815803528
+        ]
+    },
+    "1731": {
+        "English-Swahili": [
+            0.25549808144569397
+        ],
+        "Swahili-English": [
+            0.4073149561882019
+        ],
+        "English-Yoruba": [
+            0.4344632625579834
+        ],
+        "Yoruba-English": [
+            0.25070205330848694
+        ],
+        "English-Hindi": [
+            0.312604695558548
+        ],
+        "Hindi-English": [
+            0.2627791464328766
+        ],
+        "English-Urdu": [
+            0.3220246136188507
+        ],
+        "Urdu-English": [
+            0.3653152585029602
+        ],
+        "English-German": [
+            0.11946478486061096
+        ],
+        "German-English": [
+            0.23869358003139496
+        ],
+        "English-Italian": [
+            0.26165977120399475
+        ],
+        "Italian-English": [
+            0.2689766585826874
+        ],
+        "English-Spanish": [
+            0.19956809282302856
+        ],
+        "Spanish-English": [
+            0.24573969841003418
+        ],
+        "English-Polish": [
+            0.7219579815864563
+        ],
+        "Polish-English": [
+            0.8296582102775574
+        ],
+        "English-Croatian": [
+            0.311169296503067
+        ],
+        "Croatian-English": [
+            0.7028058171272278
+        ],
+        "English-Russian": [
+            0.18714137375354767
+        ],
+        "Russian-English": [
+            0.2436429262161255
+        ],
+        "English-Hungarian": [
+            0.6712696552276611
+        ],
+        "Hungarian-English": [
+            0.23915904760360718
+        ]
+    },
+    "1276": {
+        "English-Swahili": [
+            0.31787991523742676
+        ],
+        "Swahili-English": [
+            0.31816306710243225
+        ],
+        "English-Yoruba": [
+            0.5264518857002258
+        ],
+        "Yoruba-English": [
+            0.3131708800792694
+        ],
+        "English-Hindi": [
+            0.4969152510166168
+        ],
+        "Hindi-English": [
+            0.5726110339164734
+        ],
+        "English-Urdu": [
+            0.62199467420578
+        ],
+        "Urdu-English": [
+            0.3048555552959442
+        ],
+        "English-German": [
+            0.8389762043952942
+        ],
+        "German-English": [
+            0.9420262575149536
+        ],
+        "English-Italian": [
+            0.3021972179412842
+        ],
+        "Italian-English": [
+            0.29891183972358704
+        ],
+        "English-Spanish": [
+            0.3472432494163513
+        ],
+        "Spanish-English": [
+            0.8075060844421387
+        ],
+        "English-Polish": [
+            0.28910502791404724
+        ],
+        "Polish-English": [
+            0.30834320187568665
+        ],
+        "English-Croatian": [
+            0.29470765590667725
+        ],
+        "Croatian-English": [
+            0.9449049234390259
+        ],
+        "English-Russian": [
+            0.2936478555202484
+        ],
+        "Russian-English": [
+            0.30502474308013916
+        ],
+        "English-Hungarian": [
+            0.9491846561431885
+        ],
+        "Hungarian-English": [
+            0.30209997296333313
+        ]
+    },
+    "937": {
+        "English-Swahili": [
+            0.30670708417892456
+        ],
+        "Swahili-English": [
+            0.2585025727748871
+        ],
+        "English-Yoruba": [
+            0.41050854325294495
+        ],
+        "Yoruba-English": [
+            0.25702163577079773
+        ],
+        "English-Hindi": [
+            0.2581463158130646
+        ],
+        "Hindi-English": [
+            0.31638848781585693
+        ],
+        "English-Urdu": [
+            0.37195339798927307
+        ],
+        "Urdu-English": [
+            0.2693845331668854
+        ],
+        "English-German": [
+            0.3634984493255615
+        ],
+        "German-English": [
+            0.8513146042823792
+        ],
+        "English-Italian": [
+            0.8556789755821228
+        ],
+        "Italian-English": [
+            0.8872537612915039
+        ],
+        "English-Spanish": [
+            0.8335251212120056
+        ],
+        "Spanish-English": [
+            0.7800479531288147
+        ],
+        "English-Polish": [
+            0.25278154015541077
+        ],
+        "Polish-English": [
+            0.2561925947666168
+        ],
+        "English-Croatian": [
+            0.1586267054080963
+        ],
+        "Croatian-English": [
+            0.26090723276138306
+        ],
+        "English-Russian": [
+            0.19037450850009918
+        ],
+        "Russian-English": [
+            0.8939940929412842
+        ],
+        "English-Hungarian": [
+            0.27645066380500793
+        ],
+        "Hungarian-English": [
+            0.2990228533744812
+        ]
+    },
+    "1612": {
+        "English-Swahili": [
+            0.2700258493423462
+        ],
+        "Swahili-English": [
+            0.2928122878074646
+        ],
+        "English-Yoruba": [
+            0.5637015700340271
+        ],
+        "Yoruba-English": [
+            0.3013588786125183
+        ],
+        "English-Hindi": [
+            0.33806127309799194
+        ],
+        "Hindi-English": [
+            0.29910147190093994
+        ],
+        "English-Urdu": [
+            0.3110032379627228
+        ],
+        "Urdu-English": [
+            0.5617746114730835
+        ],
+        "English-German": [
+            0.3034535050392151
+        ],
+        "German-English": [
+            0.274655818939209
+        ],
+        "English-Italian": [
+            0.31236591935157776
+        ],
+        "Italian-English": [
+            0.2797258496284485
+        ],
+        "English-Spanish": [
+            0.3405989706516266
+        ],
+        "Spanish-English": [
+            0.8504928350448608
+        ],
+        "English-Polish": [
+            0.3440910875797272
+        ],
+        "Polish-English": [
+            0.29273363947868347
+        ],
+        "English-Croatian": [
+            0.3470430374145508
+        ],
+        "Croatian-English": [
+            0.28885263204574585
+        ],
+        "English-Russian": [
+            0.3361796736717224
+        ],
+        "Russian-English": [
+            0.2869880497455597
+        ],
+        "English-Hungarian": [
+            0.538275957107544
+        ],
+        "Hungarian-English": [
+            0.28811439871788025
+        ]
+    },
+    "1326": {
+        "English-Swahili": [
+            0.2876926064491272
+        ],
+        "Swahili-English": [
+            0.1746017038822174
+        ],
+        "English-Yoruba": [
+            0.3135125935077667
+        ],
+        "Yoruba-English": [
+            0.2577492296695709
+        ],
+        "English-Hindi": [
+            0.36826568841934204
+        ],
+        "Hindi-English": [
+            0.33429834246635437
+        ],
+        "English-Urdu": [
+            0.35397467017173767
+        ],
+        "Urdu-English": [
+            0.313690721988678
+        ],
+        "English-German": [
+            0.2639780640602112
+        ],
+        "German-English": [
+            0.28968092799186707
+        ],
+        "English-Italian": [
+            0.24763840436935425
+        ],
+        "Italian-English": [
+            0.28838232159614563
+        ],
+        "English-Spanish": [
+            0.2051670402288437
+        ],
+        "Spanish-English": [
+            0.29840409755706787
+        ],
+        "English-Polish": [
+            0.4926883280277252
+        ],
+        "Polish-English": [
+            0.6698197722434998
+        ],
+        "English-Croatian": [
+            0.330300897359848
+        ],
+        "Croatian-English": [
+            0.32245969772338867
+        ],
+        "English-Russian": [
+            0.2258547991514206
+        ],
+        "Russian-English": [
+            0.7649157047271729
+        ],
+        "English-Hungarian": [
+            0.3311966359615326
+        ],
+        "Hungarian-English": [
+            0.28875142335891724
+        ]
+    },
+    "1841": {
+        "English-Swahili": [
+            0.29301220178604126
+        ],
+        "Swahili-English": [
+            0.2436240017414093
+        ],
+        "English-Yoruba": [
+            0.4435373842716217
+        ],
+        "Yoruba-English": [
+            0.2565288245677948
+        ],
+        "English-Hindi": [
+            0.26814448833465576
+        ],
+        "Hindi-English": [
+            0.264059454202652
+        ],
+        "English-Urdu": [
+            0.2597781717777252
+        ],
+        "Urdu-English": [
+            0.24742358922958374
+        ],
+        "English-German": [
+            0.2211853265762329
+        ],
+        "German-English": [
+            0.24153131246566772
+        ],
+        "English-Italian": [
+            0.21864822506904602
+        ],
+        "Italian-English": [
+            0.24449434876441956
+        ],
+        "English-Spanish": [
+            0.7775181531906128
+        ],
+        "Spanish-English": [
+            0.2539938986301422
+        ],
+        "English-Polish": [
+            0.2320304811000824
+        ],
+        "Polish-English": [
+            0.241771399974823
+        ],
+        "English-Croatian": [
+            0.2643584907054901
+        ],
+        "Croatian-English": [
+            0.24556973576545715
+        ],
+        "English-Russian": [
+            0.35016924142837524
+        ],
+        "Russian-English": [
+            0.7121759057044983
+        ],
+        "English-Hungarian": [
+            0.24921730160713196
+        ],
+        "Hungarian-English": [
+            0.2427457571029663
+        ]
+    },
+    "1482": {
+        "English-Swahili": [
+            0.2628936767578125
+        ],
+        "Swahili-English": [
+            0.26991263031959534
+        ],
+        "English-Yoruba": [
+            0.39505675435066223
+        ],
+        "Yoruba-English": [
+            0.27647456526756287
+        ],
+        "English-Hindi": [
+            0.30206790566444397
+        ],
+        "Hindi-English": [
+            0.1940370798110962
+        ],
+        "English-Urdu": [
+            0.27923306822776794
+        ],
+        "Urdu-English": [
+            0.2821153700351715
+        ],
+        "English-German": [
+            0.2095833122730255
+        ],
+        "German-English": [
+            0.24923667311668396
+        ],
+        "English-Italian": [
+            0.6674370169639587
+        ],
+        "Italian-English": [
+            0.25723162293434143
+        ],
+        "English-Spanish": [
+            0.2626250982284546
+        ],
+        "Spanish-English": [
+            0.881718099117279
+        ],
+        "English-Polish": [
+            0.24636408686637878
+        ],
+        "Polish-English": [
+            0.2556409239768982
+        ],
+        "English-Croatian": [
+            0.22866356372833252
+        ],
+        "Croatian-English": [
+            0.26221391558647156
+        ],
+        "English-Russian": [
+            0.18872396647930145
+        ],
+        "Russian-English": [
+            0.2618158161640167
+        ],
+        "English-Hungarian": [
+            0.2338654100894928
+        ],
+        "Hungarian-English": [
+            0.2512055039405823
+        ]
+    },
+    "679": {
+        "English-Swahili": [
+            0.33837437629699707
+        ],
+        "Swahili-English": [
+            0.2677067220211029
+        ],
+        "English-Yoruba": [
+            0.4261203706264496
+        ],
+        "Yoruba-English": [
+            0.2700163424015045
+        ],
+        "English-Hindi": [
+            0.34100255370140076
+        ],
+        "Hindi-English": [
+            0.37696948647499084
+        ],
+        "English-Urdu": [
+            0.3909393548965454
+        ],
+        "Urdu-English": [
+            0.8053684234619141
+        ],
+        "English-German": [
+            0.836179256439209
+        ],
+        "German-English": [
+            0.26922792196273804
+        ],
+        "English-Italian": [
+            0.2682841718196869
+        ],
+        "Italian-English": [
+            0.292143851518631
+        ],
+        "English-Spanish": [
+            0.8716846108436584
+        ],
+        "Spanish-English": [
+            0.9141033291816711
+        ],
+        "English-Polish": [
+            0.6775115132331848
+        ],
+        "Polish-English": [
+            0.7164023518562317
+        ],
+        "English-Croatian": [
+            0.24103710055351257
+        ],
+        "Croatian-English": [
+            0.27538082003593445
+        ],
+        "English-Russian": [
+            0.14979973435401917
+        ],
+        "Russian-English": [
+            0.279892235994339
+        ],
+        "English-Hungarian": [
+            0.2682972848415375
+        ],
+        "Hungarian-English": [
+            0.2786605656147003
+        ]
+    },
+    "677": {
+        "English-Swahili": [
+            0.3565171957015991
+        ],
+        "Swahili-English": [
+            0.28378376364707947
+        ],
+        "English-Yoruba": [
+            0.41722962260246277
+        ],
+        "Yoruba-English": [
+            0.2872351109981537
+        ],
+        "English-Hindi": [
+            0.3679240047931671
+        ],
+        "Hindi-English": [
+            0.32809630036354065
+        ],
+        "English-Urdu": [
+            0.3572855293750763
+        ],
+        "Urdu-English": [
+            0.2973027229309082
+        ],
+        "English-German": [
+            0.2660658061504364
+        ],
+        "German-English": [
+            0.28062134981155396
+        ],
+        "English-Italian": [
+            0.3824952244758606
+        ],
+        "Italian-English": [
+            0.2693779468536377
+        ],
+        "English-Spanish": [
+            0.872147262096405
+        ],
+        "Spanish-English": [
+            0.8246322274208069
+        ],
+        "English-Polish": [
+            0.2739730477333069
+        ],
+        "Polish-English": [
+            0.27794837951660156
+        ],
+        "English-Croatian": [
+            0.628170907497406
+        ],
+        "Croatian-English": [
+            0.9061759114265442
+        ],
+        "English-Russian": [
+            0.21884480118751526
+        ],
+        "Russian-English": [
+            0.3051423728466034
+        ],
+        "English-Hungarian": [
+            0.2746420204639435
+        ],
+        "Hungarian-English": [
+            0.27536556124687195
+        ]
+    },
+    "1084": {
+        "English-Swahili": [
+            0.4281451404094696
+        ],
+        "Swahili-English": [
+            0.3801688849925995
+        ],
+        "English-Yoruba": [
+            0.5765942335128784
+        ],
+        "Yoruba-English": [
+            0.27675777673721313
+        ],
+        "English-Hindi": [
+            0.3078624904155731
+        ],
+        "Hindi-English": [
+            0.3082323372364044
+        ],
+        "English-Urdu": [
+            0.33047372102737427
+        ],
+        "Urdu-English": [
+            0.2977185547351837
+        ],
+        "English-German": [
+            0.5706908106803894
+        ],
+        "German-English": [
+            0.28817835450172424
+        ],
+        "English-Italian": [
+            0.9047552943229675
+        ],
+        "Italian-English": [
+            0.27780240774154663
+        ],
+        "English-Spanish": [
+            0.2386769950389862
+        ],
+        "Spanish-English": [
+            0.2812027633190155
+        ],
+        "English-Polish": [
+            0.2694028317928314
+        ],
+        "Polish-English": [
+            0.2721976935863495
+        ],
+        "English-Croatian": [
+            0.5629841089248657
+        ],
+        "Croatian-English": [
+            0.2934300899505615
+        ],
+        "English-Russian": [
+            0.15894243121147156
+        ],
+        "Russian-English": [
+            0.2836175858974457
+        ],
+        "English-Hungarian": [
+            0.7974725365638733
+        ],
+        "Hungarian-English": [
+            0.2753486633300781
+        ]
+    },
+    "1361": {
+        "English-Swahili": [
+            0.4659319818019867
+        ],
+        "Swahili-English": [
+            0.24432706832885742
+        ],
+        "English-Yoruba": [
+            0.5193656086921692
+        ],
+        "Yoruba-English": [
+            0.24383795261383057
+        ],
+        "English-Hindi": [
+            0.37941187620162964
+        ],
+        "Hindi-English": [
+            0.2506960332393646
+        ],
+        "English-Urdu": [
+            0.32214102149009705
+        ],
+        "Urdu-English": [
+            0.2857716977596283
+        ],
+        "English-German": [
+            0.7899231910705566
+        ],
+        "German-English": [
+            0.2395695149898529
+        ],
+        "English-Italian": [
+            0.9093987345695496
+        ],
+        "Italian-English": [
+            0.22535888850688934
+        ],
+        "English-Spanish": [
+            0.8764520883560181
+        ],
+        "Spanish-English": [
+            0.22610679268836975
+        ],
+        "English-Polish": [
+            0.21309524774551392
+        ],
+        "Polish-English": [
+            0.22934354841709137
+        ],
+        "English-Croatian": [
+            0.9151265025138855
+        ],
+        "Croatian-English": [
+            0.24345733225345612
+        ],
+        "English-Russian": [
+            0.8806896209716797
+        ],
+        "Russian-English": [
+            0.24869126081466675
+        ],
+        "English-Hungarian": [
+            0.8098833560943604
+        ],
+        "Hungarian-English": [
+            0.8130219578742981
+        ]
+    },
+    "1436": {
+        "English-Swahili": [
+            0.40046074986457825
+        ],
+        "Swahili-English": [
+            0.32172083854675293
+        ],
+        "English-Yoruba": [
+            0.2638648748397827
+        ],
+        "Yoruba-English": [
+            0.32344529032707214
+        ],
+        "English-Hindi": [
+            0.5599929690361023
+        ],
+        "Hindi-English": [
+            0.30167296528816223
+        ],
+        "English-Urdu": [
+            0.4085092842578888
+        ],
+        "Urdu-English": [
+            0.23302534222602844
+        ],
+        "English-German": [
+            0.28862833976745605
+        ],
+        "German-English": [
+            0.239762544631958
+        ],
+        "English-Italian": [
+            0.3874257504940033
+        ],
+        "Italian-English": [
+            0.3266982138156891
+        ],
+        "English-Spanish": [
+            0.38570436835289
+        ],
+        "Spanish-English": [
+            0.3272322118282318
+        ],
+        "English-Polish": [
+            0.29739058017730713
+        ],
+        "Polish-English": [
+            0.3094857633113861
+        ],
+        "English-Croatian": [
+            0.5431304574012756
+        ],
+        "Croatian-English": [
+            0.3175799250602722
+        ],
+        "English-Russian": [
+            0.8723830580711365
+        ],
+        "Russian-English": [
+            0.3169557452201843
+        ],
+        "English-Hungarian": [
+            0.5773783326148987
+        ],
+        "Hungarian-English": [
+            0.32427453994750977
+        ]
+    },
+    "899": {
+        "English-Swahili": [
+            0.25627756118774414
+        ],
+        "Swahili-English": [
+            0.1662677377462387
+        ],
+        "English-Yoruba": [
+            0.36962053179740906
+        ],
+        "Yoruba-English": [
+            0.2953062355518341
+        ],
+        "English-Hindi": [
+            0.3320205509662628
+        ],
+        "Hindi-English": [
+            0.3088051974773407
+        ],
+        "English-Urdu": [
+            0.3101133406162262
+        ],
+        "Urdu-English": [
+            0.28107184171676636
+        ],
+        "English-German": [
+            0.24291343986988068
+        ],
+        "German-English": [
+            0.267182856798172
+        ],
+        "English-Italian": [
+            0.2546081244945526
+        ],
+        "Italian-English": [
+            0.26122134923934937
+        ],
+        "English-Spanish": [
+            0.24316203594207764
+        ],
+        "Spanish-English": [
+            0.2600739896297455
+        ],
+        "English-Polish": [
+            0.38175153732299805
+        ],
+        "Polish-English": [
+            0.2558950185775757
+        ],
+        "English-Croatian": [
+            0.45030489563941956
+        ],
+        "Croatian-English": [
+            0.634312629699707
+        ],
+        "English-Russian": [
+            0.30073004961013794
+        ],
+        "Russian-English": [
+            0.2577144205570221
+        ],
+        "English-Hungarian": [
+            0.4804474711418152
+        ],
+        "Hungarian-English": [
+            0.2574121057987213
+        ]
+    },
+    "342": {
+        "English-Swahili": [
+            0.39518386125564575
+        ],
+        "Swahili-English": [
+            0.627552330493927
+        ],
+        "English-Yoruba": [
+            0.33172091841697693
+        ],
+        "Yoruba-English": [
+            0.3152478337287903
+        ],
+        "English-Hindi": [
+            0.3972676992416382
+        ],
+        "Hindi-English": [
+            0.3803432881832123
+        ],
+        "English-Urdu": [
+            0.3558203876018524
+        ],
+        "Urdu-English": [
+            0.3095037639141083
+        ],
+        "English-German": [
+            0.25983935594558716
+        ],
+        "German-English": [
+            0.29554781317710876
+        ],
+        "English-Italian": [
+            0.6509422659873962
+        ],
+        "Italian-English": [
+            0.29425379633903503
+        ],
+        "English-Spanish": [
+            0.5926159024238586
+        ],
+        "Spanish-English": [
+            0.3043920397758484
+        ],
+        "English-Polish": [
+            0.275694876909256
+        ],
+        "Polish-English": [
+            0.2969484031200409
+        ],
+        "English-Croatian": [
+            0.309665709733963
+        ],
+        "Croatian-English": [
+            0.7897699475288391
+        ],
+        "English-Russian": [
+            0.15292572975158691
+        ],
+        "Russian-English": [
+            0.29794779419898987
+        ],
+        "English-Hungarian": [
+            0.5668885707855225
+        ],
+        "Hungarian-English": [
+            0.3221133053302765
+        ]
+    },
+    "259": {
+        "English-Swahili": [
+            0.18090108036994934
+        ],
+        "Swahili-English": [
+            0.3927600681781769
+        ],
+        "English-Yoruba": [
+            0.4549684524536133
+        ],
+        "Yoruba-English": [
+            0.2605886459350586
+        ],
+        "English-Hindi": [
+            0.3045238256454468
+        ],
+        "Hindi-English": [
+            0.8362048268318176
+        ],
+        "English-Urdu": [
+            0.2587061822414398
+        ],
+        "Urdu-English": [
+            0.8268006443977356
+        ],
+        "English-German": [
+            0.5007165670394897
+        ],
+        "German-English": [
+            0.24195462465286255
+        ],
+        "English-Italian": [
+            0.584990918636322
+        ],
+        "Italian-English": [
+            0.2540898621082306
+        ],
+        "English-Spanish": [
+            0.4682740867137909
+        ],
+        "Spanish-English": [
+            0.8074433207511902
+        ],
+        "English-Polish": [
+            0.4541267454624176
+        ],
+        "Polish-English": [
+            0.6752939820289612
+        ],
+        "English-Croatian": [
+            0.3824405372142792
+        ],
+        "Croatian-English": [
+            0.7194597721099854
+        ],
+        "English-Russian": [
+            0.6673939824104309
+        ],
+        "Russian-English": [
+            0.25619933009147644
+        ],
+        "English-Hungarian": [
+            0.6818369030952454
+        ],
+        "Hungarian-English": [
+            0.7139950394630432
+        ]
+    },
+    "1738": {
+        "English-Swahili": [
+            0.41040533781051636
+        ],
+        "Swahili-English": [
+            0.3176163136959076
+        ],
+        "English-Yoruba": [
+            0.4415281414985657
+        ],
+        "Yoruba-English": [
+            0.3458386957645416
+        ],
+        "English-Hindi": [
+            0.390654981136322
+        ],
+        "Hindi-English": [
+            0.6094898581504822
+        ],
+        "English-Urdu": [
+            0.41569551825523376
+        ],
+        "Urdu-English": [
+            0.3229193687438965
+        ],
+        "English-German": [
+            0.3406105041503906
+        ],
+        "German-English": [
+            0.3762708902359009
+        ],
+        "English-Italian": [
+            0.498803049325943
+        ],
+        "Italian-English": [
+            0.30189797282218933
+        ],
+        "English-Spanish": [
+            0.5432309508323669
+        ],
+        "Spanish-English": [
+            0.29926279187202454
+        ],
+        "English-Polish": [
+            0.5036121010780334
+        ],
+        "Polish-English": [
+            0.6106153130531311
+        ],
+        "English-Croatian": [
+            0.23079605400562286
+        ],
+        "Croatian-English": [
+            0.3761717677116394
+        ],
+        "English-Russian": [
+            0.19124692678451538
+        ],
+        "Russian-English": [
+            0.32157644629478455
+        ],
+        "English-Hungarian": [
+            0.7347255349159241
+        ],
+        "Hungarian-English": [
+            0.300094872713089
+        ]
+    },
+    "165": {
+        "English-Swahili": [
+            0.18301202356815338
+        ],
+        "Swahili-English": [
+            0.7028781175613403
+        ],
+        "English-Yoruba": [
+            0.4058053493499756
+        ],
+        "Yoruba-English": [
+            0.4139977693557739
+        ],
+        "English-Hindi": [
+            0.2803792953491211
+        ],
+        "Hindi-English": [
+            0.7347496151924133
+        ],
+        "English-Urdu": [
+            0.2466234266757965
+        ],
+        "Urdu-English": [
+            0.7330277562141418
+        ],
+        "English-German": [
+            0.42842748761177063
+        ],
+        "German-English": [
+            0.299059122800827
+        ],
+        "English-Italian": [
+            0.7189775109291077
+        ],
+        "Italian-English": [
+            0.8160631060600281
+        ],
+        "English-Spanish": [
+            0.7975387573242188
+        ],
+        "Spanish-English": [
+            0.825628936290741
+        ],
+        "English-Polish": [
+            0.7881118655204773
+        ],
+        "Polish-English": [
+            0.835711658000946
+        ],
+        "English-Croatian": [
+            0.3638898432254791
+        ],
+        "Croatian-English": [
+            0.3025945723056793
+        ],
+        "English-Russian": [
+            0.6681888103485107
+        ],
+        "Russian-English": [
+            0.830041766166687
+        ],
+        "English-Hungarian": [
+            0.3218773901462555
+        ],
+        "Hungarian-English": [
+            0.28978022933006287
+        ]
+    },
+    "1600": {
+        "English-Swahili": [
+            0.24691477417945862
+        ],
+        "Swahili-English": [
+            0.251623272895813
+        ],
+        "English-Yoruba": [
+            0.280476838350296
+        ],
+        "Yoruba-English": [
+            0.2710513174533844
+        ],
+        "English-Hindi": [
+            0.24048343300819397
+        ],
+        "Hindi-English": [
+            0.32512161135673523
+        ],
+        "English-Urdu": [
+            0.32996514439582825
+        ],
+        "Urdu-English": [
+            0.24380069971084595
+        ],
+        "English-German": [
+            0.1985113024711609
+        ],
+        "German-English": [
+            0.20947399735450745
+        ],
+        "English-Italian": [
+            0.9164153337478638
+        ],
+        "Italian-English": [
+            0.8590459227561951
+        ],
+        "English-Spanish": [
+            0.21677836775779724
+        ],
+        "Spanish-English": [
+            0.8832045793533325
+        ],
+        "English-Polish": [
+            0.22607338428497314
+        ],
+        "Polish-English": [
+            0.2274206280708313
+        ],
+        "English-Croatian": [
+            0.19007694721221924
+        ],
+        "Croatian-English": [
+            0.22149448096752167
+        ],
+        "English-Russian": [
+            0.19620758295059204
+        ],
+        "Russian-English": [
+            0.23606085777282715
+        ],
+        "English-Hungarian": [
+            0.6222065091133118
+        ],
+        "Hungarian-English": [
+            0.22580701112747192
+        ]
+    },
+    "655": {
+        "English-Swahili": [
+            0.2979249656200409
+        ],
+        "Swahili-English": [
+            0.2950062155723572
+        ],
+        "English-Yoruba": [
+            0.5300200581550598
+        ],
+        "Yoruba-English": [
+            0.296766996383667
+        ],
+        "English-Hindi": [
+            0.3187674880027771
+        ],
+        "Hindi-English": [
+            0.48012152314186096
+        ],
+        "English-Urdu": [
+            0.39165034890174866
+        ],
+        "Urdu-English": [
+            0.24267511069774628
+        ],
+        "English-German": [
+            0.8843737244606018
+        ],
+        "German-English": [
+            0.2799941599369049
+        ],
+        "English-Italian": [
+            0.8286594748497009
+        ],
+        "Italian-English": [
+            0.8766759037971497
+        ],
+        "English-Spanish": [
+            0.778397262096405
+        ],
+        "Spanish-English": [
+            0.28692105412483215
+        ],
+        "English-Polish": [
+            0.2952939569950104
+        ],
+        "Polish-English": [
+            0.28613319993019104
+        ],
+        "English-Croatian": [
+            0.2449173629283905
+        ],
+        "Croatian-English": [
+            0.9218485355377197
+        ],
+        "English-Russian": [
+            0.20590433478355408
+        ],
+        "Russian-English": [
+            0.2822168469429016
+        ],
+        "English-Hungarian": [
+            0.8251434564590454
+        ],
+        "Hungarian-English": [
+            0.27972063422203064
+        ]
+    },
+    "103": {
+        "English-Swahili": [
+            0.33264875411987305
+        ],
+        "Swahili-English": [
+            0.2843494415283203
+        ],
+        "English-Yoruba": [
+            0.6812570691108704
+        ],
+        "Yoruba-English": [
+            0.27296096086502075
+        ],
+        "English-Hindi": [
+            0.32000523805618286
+        ],
+        "Hindi-English": [
+            0.3651808202266693
+        ],
+        "English-Urdu": [
+            0.3289412260055542
+        ],
+        "Urdu-English": [
+            0.2780158817768097
+        ],
+        "English-German": [
+            0.23615936934947968
+        ],
+        "German-English": [
+            0.2666970193386078
+        ],
+        "English-Italian": [
+            0.2763473093509674
+        ],
+        "Italian-English": [
+            0.8516895174980164
+        ],
+        "English-Spanish": [
+            0.8161517977714539
+        ],
+        "Spanish-English": [
+            0.27636954188346863
+        ],
+        "English-Polish": [
+            0.7357982397079468
+        ],
+        "Polish-English": [
+            0.27854815125465393
+        ],
+        "English-Croatian": [
+            0.3150041997432709
+        ],
+        "Croatian-English": [
+            0.28277817368507385
+        ],
+        "English-Russian": [
+            0.2059200406074524
+        ],
+        "Russian-English": [
+            0.27457451820373535
+        ],
+        "English-Hungarian": [
+            0.16871784627437592
+        ],
+        "Hungarian-English": [
+            0.2693834602832794
+        ]
+    },
+    "1795": {
+        "English-Swahili": [
+            0.39380937814712524
+        ],
+        "Swahili-English": [
+            0.17910228669643402
+        ],
+        "English-Yoruba": [
+            0.44062361121177673
+        ],
+        "Yoruba-English": [
+            0.3717779517173767
+        ],
+        "English-Hindi": [
+            0.3850736916065216
+        ],
+        "Hindi-English": [
+            0.3825949728488922
+        ],
+        "English-Urdu": [
+            0.35329774022102356
+        ],
+        "Urdu-English": [
+            0.30357474088668823
+        ],
+        "English-German": [
+            0.2633179724216461
+        ],
+        "German-English": [
+            0.3763858377933502
+        ],
+        "English-Italian": [
+            0.2778071165084839
+        ],
+        "Italian-English": [
+            0.37164637446403503
+        ],
+        "English-Spanish": [
+            0.2866852283477783
+        ],
+        "Spanish-English": [
+            0.5686579942703247
+        ],
+        "English-Polish": [
+            0.37223947048187256
+        ],
+        "Polish-English": [
+            0.30412593483924866
+        ],
+        "English-Croatian": [
+            0.440542072057724
+        ],
+        "Croatian-English": [
+            0.37328073382377625
+        ],
+        "English-Russian": [
+            0.8854493498802185
+        ],
+        "Russian-English": [
+            0.38673749566078186
+        ],
+        "English-Hungarian": [
+            0.6410462260246277
+        ],
+        "Hungarian-English": [
+            0.37088173627853394
+        ]
+    },
+    "1212": {
+        "English-Swahili": [
+            0.3045113980770111
+        ],
+        "Swahili-English": [
+            0.45878005027770996
+        ],
+        "English-Yoruba": [
+            0.5758566856384277
+        ],
+        "Yoruba-English": [
+            0.38136425614356995
+        ],
+        "English-Hindi": [
+            0.350640207529068
+        ],
+        "Hindi-English": [
+            0.43459999561309814
+        ],
+        "English-Urdu": [
+            0.3221985101699829
+        ],
+        "Urdu-English": [
+            0.5502657890319824
+        ],
+        "English-German": [
+            0.7877642512321472
+        ],
+        "German-English": [
+            0.7183033227920532
+        ],
+        "English-Italian": [
+            0.8218140006065369
+        ],
+        "Italian-English": [
+            0.8066607117652893
+        ],
+        "English-Spanish": [
+            0.1805456280708313
+        ],
+        "Spanish-English": [
+            0.26649966835975647
+        ],
+        "English-Polish": [
+            0.25562331080436707
+        ],
+        "Polish-English": [
+            0.8594500422477722
+        ],
+        "English-Croatian": [
+            0.8904747366905212
+        ],
+        "Croatian-English": [
+            0.5538221001625061
+        ],
+        "English-Russian": [
+            0.20319873094558716
+        ],
+        "Russian-English": [
+            0.8596131205558777
+        ],
+        "English-Hungarian": [
+            0.8350594639778137
+        ],
+        "Hungarian-English": [
+            0.6866373419761658
+        ]
+    },
+    "550": {
+        "English-Swahili": [
+            0.16793712973594666
+        ],
+        "Swahili-English": [
+            0.3735417425632477
+        ],
+        "English-Yoruba": [
+            0.36872971057891846
+        ],
+        "Yoruba-English": [
+            0.27333560585975647
+        ],
+        "English-Hindi": [
+            0.2739848494529724
+        ],
+        "Hindi-English": [
+            0.20448966324329376
+        ],
+        "English-Urdu": [
+            0.34341153502464294
+        ],
+        "Urdu-English": [
+            0.3167066276073456
+        ],
+        "English-German": [
+            0.2512703835964203
+        ],
+        "German-English": [
+            0.27601465582847595
+        ],
+        "English-Italian": [
+            0.3156706988811493
+        ],
+        "Italian-English": [
+            0.2811456322669983
+        ],
+        "English-Spanish": [
+            0.3061080276966095
+        ],
+        "Spanish-English": [
+            0.7973002791404724
+        ],
+        "English-Polish": [
+            0.22781097888946533
+        ],
+        "Polish-English": [
+            0.26899075508117676
+        ],
+        "English-Croatian": [
+            0.2955053150653839
+        ],
+        "Croatian-English": [
+            0.27519330382347107
+        ],
+        "English-Russian": [
+            0.4159855842590332
+        ],
+        "Russian-English": [
+            0.8299818634986877
+        ],
+        "English-Hungarian": [
+            0.49884381890296936
+        ],
+        "Hungarian-English": [
+            0.2696514129638672
+        ]
+    },
+    "754": {
+        "English-Swahili": [
+            0.3266809284687042
+        ],
+        "Swahili-English": [
+            0.422414630651474
+        ],
+        "English-Yoruba": [
+            0.40916910767555237
+        ],
+        "Yoruba-English": [
+            0.30268287658691406
+        ],
+        "English-Hindi": [
+            0.2700500786304474
+        ],
+        "Hindi-English": [
+            0.28471776843070984
+        ],
+        "English-Urdu": [
+            0.2666548490524292
+        ],
+        "Urdu-English": [
+            0.43701207637786865
+        ],
+        "English-German": [
+            0.19836567342281342
+        ],
+        "German-English": [
+            0.2600235342979431
+        ],
+        "English-Italian": [
+            0.742723822593689
+        ],
+        "Italian-English": [
+            0.2641119658946991
+        ],
+        "English-Spanish": [
+            0.20364393293857574
+        ],
+        "Spanish-English": [
+            0.25178244709968567
+        ],
+        "English-Polish": [
+            0.8325637578964233
+        ],
+        "Polish-English": [
+            0.25015339255332947
+        ],
+        "English-Croatian": [
+            0.2652513384819031
+        ],
+        "Croatian-English": [
+            0.25507497787475586
+        ],
+        "English-Russian": [
+            0.1607804000377655
+        ],
+        "Russian-English": [
+            0.2532050311565399
+        ],
+        "English-Hungarian": [
+            0.2747209370136261
+        ],
+        "Hungarian-English": [
+            0.32883980870246887
+        ]
+    },
+    "1492": {
+        "English-Swahili": [
+            0.40838944911956787
+        ],
+        "Swahili-English": [
+            0.3081291615962982
+        ],
+        "English-Yoruba": [
+            0.4990951716899872
+        ],
+        "Yoruba-English": [
+            0.29949691891670227
+        ],
+        "English-Hindi": [
+            0.3034621775150299
+        ],
+        "Hindi-English": [
+            0.5562543272972107
+        ],
+        "English-Urdu": [
+            0.19027233123779297
+        ],
+        "Urdu-English": [
+            0.3131038546562195
+        ],
+        "English-German": [
+            0.2715394198894501
+        ],
+        "German-English": [
+            0.3209122121334076
+        ],
+        "English-Italian": [
+            0.7717917561531067
+        ],
+        "Italian-English": [
+            0.9304336309432983
+        ],
+        "English-Spanish": [
+            0.8007418513298035
+        ],
+        "Spanish-English": [
+            0.9396523833274841
+        ],
+        "English-Polish": [
+            0.23455557227134705
+        ],
+        "Polish-English": [
+            0.29872533679008484
+        ],
+        "English-Croatian": [
+            0.27786198258399963
+        ],
+        "Croatian-English": [
+            0.941746175289154
+        ],
+        "English-Russian": [
+            0.9139897227287292
+        ],
+        "Russian-English": [
+            0.3084324896335602
+        ],
+        "English-Hungarian": [
+            0.31358808279037476
+        ],
+        "Hungarian-English": [
+            0.3162071704864502
+        ]
+    }
+}
