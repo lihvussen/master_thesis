@@ -1,6 +1,6 @@
 # Multilingual Alignment in LLMs – Thesis Experiment Pipeline
 
-This repository contains the pipeline and structure used for conducting the master’s thesis experiment aimed at measuring **multilingual alignment in Large Language Models (LLMs)**. To fully reproduce the pipeline, the following steps must be followed.
+This repository contains the pipeline and structure used for conducting the master’s thesis experiment aimed at measuring **multilingual alignment in Large Language Models (LLMs)**. To fully reproduce the pipeline, the following steps must be followed. Running the repository requires possessing a Hugging Face access token, which has been anonymized and each user must instert their own one to make the pipeline work.
 
 ---
 
