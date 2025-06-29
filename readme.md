@@ -1,7 +1,3 @@
-Here is the revised and polished `README.md` with `[model_name]_` prepended to each script name where applicable. This helps clarify that each model has its own set of scripts prefixed with its name:
-
----
-
 # 🌐 Multilingual Alignment in LLMs – Thesis Experiment Pipeline
 
 This repository contains the complete pipeline used in a master's thesis evaluating **multilingual alignment in Large Language Models (LLMs)**. It supports reproducible analysis across several models, embedding strategies, and alignment metrics.
@@ -190,7 +186,3 @@ This pipeline evaluates multilingual alignment using:
 * Correlation with downstream tasks (Belebele, MMLU, Translation)
 
 All experiments are performed layer-wise and across different embedding strategies.
-
----
-
-Let me know if you'd like a downloadable `.md` version or if you want to include emojis, badges, or automatic TOC at the top!
