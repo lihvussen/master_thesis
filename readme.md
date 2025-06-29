@@ -210,7 +210,3 @@ This repository supports a full reproduction of the following multilingual align
 ## 📬 Contact
 
 For questions or collaboration inquiries, feel free to open an issue or reach out to the maintainer.
-
----
-
-Let me know if you want this split across multiple markdown files, with a live GitHub-style ToC, or further automated integration.
