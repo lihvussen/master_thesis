@@ -1,12 +1,18 @@
-# 🌐 Multilingual Alignment in LLMs – Thesis Experiment Pipeline
+# Multilingual Alignment in LLMs – Thesis Experiment Pipeline
 
-This repository contains the complete pipeline used in a master's thesis evaluating **multilingual alignment in Large Language Models (LLMs)**. It supports reproducible analysis across several models, embedding strategies, and alignment metrics.
+This repository contains the pipeline and structure used for conducting the master’s thesis experiment aimed at measuring **multilingual alignment in Large Language Models (LLMs)**. To fully reproduce the pipeline, the following steps must be followed.
 
 ---
 
-## 📦 Repository Overview
+## 📥 Dataset Preparation
 
-The pipeline evaluates these multilingual models:
+Run `flores_retriever.py` to download the **FLORES-101** dataset using the `flores_101_languages.json` file, which contains language abbreviations and their full names.
+
+---
+
+## 📁 Model Structure
+
+Each of the following model folders is structured identically:
 
 * `aya_8b`
 * `bloom_3b`
@@ -16,44 +22,7 @@ The pipeline evaluates these multilingual models:
 * `llama3_1_8b`
 * `mistral_7b_v01`
 
-Each model has its own folder with a `scripts/` directory containing all related scripts. All models follow the same workflow and folder structure.
-
----
-
-## 📥 Dataset Preparation
-
-Run:
-
-* `flores_retriever.py`
-
-Downloads the **FLORES-101** dataset.
-The file `flores_101_languages.json` provides language names and codes used in all experiments.
-
----
-
-## 📁 Folder Structure
-
-Each model directory contains the following:
-
-| Folder                                                                   | Description                                                |
-| ------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| `hidden_states_averages/`                                                | Embeddings using non-weighted average pooling              |
-| `hidden_states_last/`                                                    | Embeddings from the last token                             |
-| `hidden_states_weighted/`                                                | Weighted average embeddings                                |
-| `cosine_similarities/`                                                   | Raw cosine similarity values for all strategies and layers |
-| `language_pairs_layers_similarities/`                                    | Cosine similarities between all language pairs and layers  |
-| `cosine_alignment/`                                                      | Averaged cosine alignment scores                           |
-| `retrieval/`                                                             | Sentence retrieval results                                 |
-| `retrieval_alignment/`                                                   | Averaged retrieval alignment values                        |
-| `percentages_of_most_similar_representations_same_example_and_language/` | Retrieval accuracy (same example/language)                 |
-| `plots/`                                                                 | Cosine alignment plots                                     |
-| `plots_retrieval/`                                                       | Sentence retrieval summary plots                           |
-| `plots_retrieval_language_pair_alignment/`                               | Retrieval alignment plots per language pair                |
-| `language_pairs_layers_retrieval/`                                       | Layer-wise retrieval scores per language pair              |
-| `mexa/`                                                                  | Shuffled embeddings and intermediate MEXA results          |
-| `language_pairs_layers_mexa/`                                            | Layer-wise MEXA scores per language pair                   |
-| `plots_mexa/`                                                            | MEXA alignment plots                                       |
-| `scripts/`                                                               | All scripts for running this model's pipeline              |
+Each folder contains a `scripts/` directory with the following workflow:
 
 ---
 
@@ -61,128 +30,187 @@ Each model directory contains the following:
 
 Run:
 
-* `[model_name]_representation_retrieval.py`
+```
+[model_name]_representation_retrieval.py
+```
 
-Generates contextual embeddings (average, last token, attention-weighted) and saves them in their respective `hidden_states_*` folders.
+This script extracts hidden state embeddings for each language and stores them in:
+
+* `hidden_state_averages/` – non-weighted average embeddings (`all`)
+* `hidden_state_last/` – last-token embeddings
+* `hidden_state_weighted/` – attention-weighted average embeddings
 
 ---
 
-## 🔁 Cosine Similarity Alignment
+## 🔁 Cosine Similarity Analysis
 
-Run:
+Run the following:
 
-* `[model_name]_cosine_similarities.py`
-* `[model_name]_cosine_to_alignment.py`
-* `[model_name]_cosine_analysis.py`
-* `[model_name]_plot_creation.py`
+```
+[model_name]_cosine_similarities.py
+[model_name]_cosine_to_alignment.py
+[model_name]_cosine_analysis.py
+```
 
-These scripts compute and visualize alignment based on cosine similarity between translated sentence embeddings.
+This computes pairwise cosine similarities between representations from different languages across layers and pooling strategies. Results are saved in:
+
+* `cosine_similarities/`
+* `language_pairs_layers_similarities/`
+* `cosine_alignment/`
+
+Then visualize the results with:
+
+```
+[model_name]_plot_creation.py
+```
+
+Plots are saved in `plots/`.
 
 ---
 
 ## 🔍 Sentence Retrieval Alignment
 
-Run:
+Run the following:
 
-* `[model_name]_similarities_for_sentence_retrieval.py`
-* `[model_name]_retrieval_statistics.py`
-* `[model_name]_retrieval_alignment_calculation.py`
-* `[model_name]_retrieval_alignment_calculation_for_plots.py`
-* `[model_name]_plot_creation_sentence_retrieval.py`
+```
+[model_name]_similarities_for_sentence_retrieval.py
+[model_name]_retrieval_statistics.py
+[model_name]_plot_creation_sentence_retrieval.py
+[model_name]_retrieval_alignment_calculation.py
+[model_name]_retrieval_alignment_calculation_for_plots.py
+```
 
-These evaluate how well the model retrieves correct translations from a pool of examples using cosine similarity.
+This computes sentence-level retrieval across languages and calculates multilingual alignment via retrieval. Outputs include:
 
----
-
-## 🧪 MEXA Alignment
-
-Run:
-
-* `[model_name]_mexa_reshuffle_calculations.py`
-* `[model_name]_alignment_results.py`
-* `[model_name]_alignment_calculations.py`
-* `[model_name]_mexa_alignment_calculation_for_plots.py`
-* `[model_name]_plot_creation_mexa.py`
-
-These scripts compute the MEXA (Multilingual Example Alignment) scores using shuffled embeddings as a baseline.
+* `retrieval/`
+* `percentages_of_most_similar_representations_same_example_and_language/`
+* `retrieval_alignment/`
+* `language_pairs_layers_retrieval/`
+* `plots_retrieval/`
+* `plots_retrieval_language_pair_alignment/`
 
 ---
 
-## 📉 Downstream Task Evaluation
+## 📊 MEXA Alignment
+
+Run the following:
+
+```
+[model_name]_mexa_reshuffle_calculations.py
+[model_name]_alignment_results.py
+[model_name]_alignment_calculations.py
+[model_name]_mexa_alignment_calculation_for_plots.py
+[model_name]_plot_creation_mexa.py
+```
+
+This produces MEXA alignment scores based on reshuffled hidden states. Outputs:
+
+* `MEXA/`
+* `alignment_scores/` (within `MEXA/`)
+* `language_pairs_layers_mexa/`
+* `plots_mexa/`
+
+---
+
+## 🧪 Downstream Task Evaluation
 
 Run:
 
-* `[model_name]_belebele.py`
-* `[model_name]_mmlu.py`
-* `[model_name]_translation.py`
-* `[model_name]_translation_evaluation.py`
-* `[model_name]_translation_summary.py`
-* `[model_name]_plot_creation_tasks.py`
+```
+[model_name]_belebele.py
+[model_name]_mmlu.py
+[model_name]_translation.py
+[model_name]_translation_evaluation.py
+[model_name]_translation_summary.py
+[model_name]_plot_creation_tasks.py
+```
 
-These evaluate downstream performance using:
+Evaluates each model on:
 
 * **Belebele** (QA)
-* **MMLU** (reasoning)
-* **Translation** (COMET scores)
+* **MMLU** (Reasoning)
+* **Translation** (evaluated using COMET)
+
+Results saved in: `task_results/`
 
 ---
 
-## 🏅 Language Pair Alignment Ranking
+## 🏅 Top-N Alignment Results
 
 Run:
 
-* `[model_name]_alignment_top.py`
+```
+[model_name]_alignment_top.py
+```
 
-Finds top-N best and worst aligned language pairs for each method (cosine, retrieval, MEXA).
+Extracts top-N best and worst aligned language pairs for each model and metric. Output saved in `alignment_results/` of each method folder.
 
 ---
 
 ## 🔬 Cross-Model Analysis (`general_scripts/`)
 
-### 📈 Correlation with Task Performance
+### Correlation with Downstream Tasks
 
 Run:
 
-* `pearson_correlation_all_models.py`
-* `pearson_correlation_plotting.py`
+```
+pearson_correlation_all_models.py
+pearson_correlation_plotting.py
+```
 
-Computes correlation between alignment metrics and downstream task scores across all models.
+This computes Pearson correlation between alignment and downstream task performance. Results and plots are stored in:
+
+* `general_results/cosine/`
+* `general_results/retrieval/`
+* `general_results/mexa/`
+
+### Aggregated Plotting Tools
+
+* `plots_averaged_task_results.py`: aggregates task scores across models into `plot_all_languages_merged.png`
+* `plots_merging.py`: merges alignment plots across strategies into `plots_merged_rows/`
+* `aggregating_alignment_plots.py`: generates an overview of alignment scores per model and metric
 
 ---
 
-### 📊 Aggregate Plotting Tools
+## 📁 Folder Naming Notes
 
-Run:
+Many folders contain subfolders:
 
-* `plots_averaged_task_results.py`
-* `plots_merging.py`
-* `aggregating_alignment_plots.py`
+* `all/` → non-weighted average embeddings
+* `last/` → last-token embeddings
+* `weighted/` → attention-weighted embeddings
 
-Generates merged plots across models and alignment strategies.
+> Note: In code, `"all"` refers to non-weighted average embeddings.
 
 ---
 
-## 📁 Representation Strategies
+## ⚠️ Repository Contents
 
-Folders are divided by pooling strategy:
+The repository contains:
 
-| Subfolder   | Description                |
-| ----------- | -------------------------- |
-| `all/`      | Non-weighted average       |
-| `last/`     | Last-token embedding       |
-| `weighted/` | Attention-weighted average |
-
-**Note**: `"all"` corresponds to the default average strategy used in most plots and evaluations.
+* All final plots
+* Some `.json` result files
+* Large raw files and outputs are not included due to size constraints
 
 ---
 
 ## ✅ Summary
 
-This pipeline evaluates multilingual alignment using:
+This repository supports a full reproduction of the following multilingual alignment evaluation pipeline:
 
 * Cosine similarity
-* Sentence-level retrieval
-* MEXA reshuffling-based alignment
+* Sentence retrieval
+* MEXA reshuffling
 * Correlation with downstream tasks (Belebele, MMLU, Translation)
+* Multi-layer and multi-representation evaluation
+* Per-model and cross-model visualization
 
-All experiments are performed layer-wise and across different embedding strategies.
+---
+
+## 📬 Contact
+
+For questions or collaboration inquiries, feel free to open an issue or reach out to the maintainer.
+
+---
+
+Let me know if you want this split across multiple markdown files, with a live GitHub-style ToC, or further automated integration.
