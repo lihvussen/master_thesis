@@ -39,7 +39,7 @@ Each model directory contains the following:
 | ------------------------------------------------------------------------ | ---------------------------------------------------------- |
 | `hidden_states_averages/`                                                | Embeddings using non-weighted average pooling              |
 | `hidden_states_last/`                                                    | Embeddings from the last token                             |
-| `hidden_states_weighted/`                                                | Attention-weighted average embeddings                      |
+| `hidden_states_weighted/`                                                | Weighted average embeddings                                |
 | `cosine_similarities/`                                                   | Raw cosine similarity values for all strategies and layers |
 | `language_pairs_layers_similarities/`                                    | Cosine similarities between all language pairs and layers  |
 | `cosine_alignment/`                                                      | Averaged cosine alignment scores                           |
